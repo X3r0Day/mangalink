@@ -1,5 +1,18 @@
 [
  {
+  "title": "Kiss made no Kyori",
+  "cover": "https://readermc.org/images/thumbnails/Kiss made no Kyori.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/kiss-made-no-kyori"
+  },
+  "max_chapter": 5,
+  "demonic_id": "2543",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Kiss Me Host-Gumi",
   "cover": "https://readermc.org/images/thumbnails/Kiss Me Host-Gumi.webp",
   "status": "Ongoing",
@@ -23885,7 +23898,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/luoyang-branch-of-the-heavenly-demon-cult/"
   },
-  "max_chapter": 44,
+  "max_chapter": 45,
   "chapters": {
    "Thunder Scans": []
   }
@@ -26180,19 +26193,6 @@
      "chapter_number": 4.5
     }
    ]
-  }
- },
- {
-  "title": "Magnolia Online",
-  "cover": "https://readermc.org/images/thumbnails/Magnolia Online.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/magnolia-online"
-  },
-  "max_chapter": 8,
-  "demonic_id": "2983",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

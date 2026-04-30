@@ -1,5 +1,18 @@
 [
  {
+  "title": "Magnolia Online",
+  "cover": "https://readermc.org/images/thumbnails/Magnolia Online.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/magnolia-online"
+  },
+  "max_chapter": 8,
+  "demonic_id": "2983",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Magnolia Waltz",
   "cover": "https://readermc.org/images/thumbnails/Magnolia Waltz.webp",
   "status": "Ongoing",
@@ -9022,7 +9035,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/max-level-player"
   },
-  "max_chapter": 135,
+  "max_chapter": 137,
   "demonic_id": "11751",
   "chapters": {
    "Demonic Scans": [
@@ -11548,7 +11561,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/meikyuu-metro-%25252d-mezametara-saikyoushoku-datta-node-shima-risu-o-tsurete-shinsekai-o-aruku"
   },
-  "max_chapter": 42,
+  "max_chapter": 47,
   "demonic_id": "1040",
   "chapters": {
    "Demonic Scans": []
@@ -16040,7 +16053,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/millimos-saga%253a-the-reincarnation-chronicles-of-the-youngest-prince"
   },
-  "max_chapter": 16,
+  "max_chapter": 18,
   "demonic_id": "13519",
   "chapters": {
    "Demonic Scans": []
@@ -29774,7 +29787,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/my-disciples-are-all-big-villains"
   },
-  "max_chapter": 504,
+  "max_chapter": 505,
   "demonic_id": "13062",
   "chapters": {
    "Demonic Scans": [
@@ -29811,28 +29824,6 @@
   "demonic_id": "1295",
   "chapters": {
    "Demonic Scans": []
-  }
- },
- {
-  "title": "My Disciples Cultivate, While I Slack Off!",
-  "cover": "https://readermc.org/images/thumbnails/My Disciples Cultivate, While I Slack Off!.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/my-disciples-cultivate%252c-while-i-slack-off%2521"
-  },
-  "max_chapter": 167,
-  "demonic_id": "11891",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "2.1",
-     "chapter_number": 2.1
-    },
-    {
-     "name": "0",
-     "chapter_number": 0
-    }
-   ]
   }
  }
 ]

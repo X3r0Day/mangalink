@@ -5103,10 +5103,14 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/blue-lock"
   },
-  "max_chapter": 345,
+  "max_chapter": 346.7,
   "demonic_id": "181",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "346.7",
+     "chapter_number": 346.7
+    },
     {
      "name": "343.3",
      "chapter_number": 343.3
@@ -9522,7 +9526,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/can-i-cry-now/"
   },
-  "max_chapter": 38,
+  "max_chapter": 39,
   "chapters": {
    "Violet Scans": []
   }
@@ -21177,7 +21181,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/dad-is-the-strongest-monster-slayer-in-history/"
   },
-  "max_chapter": 21,
+  "max_chapter": 22,
   "chapters": {
    "Thunder Scans": [
     {

@@ -1,5 +1,96 @@
 [
  {
+  "title": "Rengoku ni Warau",
+  "cover": "https://readermc.org/images/thumbnails/Rengoku ni Warau.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/rengoku-ni-warau"
+  },
+  "max_chapter": 157,
+  "demonic_id": "5789",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "97.4",
+     "chapter_number": 97.4
+    },
+    {
+     "name": "97.3",
+     "chapter_number": 97.3
+    },
+    {
+     "name": "97.2",
+     "chapter_number": 97.2
+    },
+    {
+     "name": "97.1",
+     "chapter_number": 97.1
+    },
+    {
+     "name": "92.3",
+     "chapter_number": 92.3
+    },
+    {
+     "name": "92.2",
+     "chapter_number": 92.2
+    },
+    {
+     "name": "92.1",
+     "chapter_number": 92.1
+    },
+    {
+     "name": "9.5",
+     "chapter_number": 9.5
+    },
+    {
+     "name": "9.005",
+     "chapter_number": 9.005
+    },
+    {
+     "name": "5.2",
+     "chapter_number": 5.2
+    },
+    {
+     "name": "5.1",
+     "chapter_number": 5.1
+    },
+    {
+     "name": "5.003",
+     "chapter_number": 5.003
+    },
+    {
+     "name": "5.002",
+     "chapter_number": 5.002
+    },
+    {
+     "name": "5.001",
+     "chapter_number": 5.001
+    },
+    {
+     "name": "2.2",
+     "chapter_number": 2.2
+    },
+    {
+     "name": "2.002",
+     "chapter_number": 2.002
+    }
+   ]
+  }
+ },
+ {
+  "title": "Rengoku no Karma",
+  "cover": "https://readermc.org/images/thumbnails/Rengoku no Karma.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/rengoku-no-karma"
+  },
+  "max_chapter": 16,
+  "demonic_id": "5790",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Rengoku no Karutagura",
   "cover": "https://readermc.org/images/thumbnails/Rengoku no Karutagura.webp",
   "status": "Ongoing",
@@ -1371,7 +1462,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/return-of-the-first-patriarch%253a-the-strongest-reincarnates-into-his-descendant-1000-years-later"
   },
-  "max_chapter": 36,
+  "max_chapter": 37,
   "demonic_id": "13490",
   "chapters": {
    "Demonic Scans": []
@@ -3264,7 +3355,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/revenge-of-the-falsely-accused/"
   },
-  "max_chapter": 37,
+  "max_chapter": 38,
   "chapters": {
    "Thunder Scans": []
   }
@@ -12100,7 +12191,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/sand-mage-of-the-scorched-desert/"
   },
-  "max_chapter": 1,
+  "max_chapter": 20,
   "chapters": {
    "Thunder Scans": []
   }
@@ -18541,7 +18632,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/selfish-alliance/"
   },
-  "max_chapter": 0,
+  "max_chapter": 1,
   "chapters": {
    "Thunder Scans": [
     {
@@ -21036,6 +21127,51 @@
     {
      "name": "1.1",
      "chapter_number": 1.1
+    }
+   ]
+  }
+ },
+ {
+  "title": "Shangri-La Frontier",
+  "cover": "https://en-thunderscans.com/wp-content/uploads/2026/04/2026-04-30-12-53-35-1777553615975-209x300.jpeg",
+  "status": "Ongoing",
+  "sources": {
+   "Thunder Scans": "https://en-thunderscans.com/comics/shangri-la-frontier/"
+  },
+  "max_chapter": 264,
+  "chapters": {
+   "Thunder Scans": [
+    {
+     "name": "155.5",
+     "chapter_slug": "shangri-la-frontier-chapter-155-5"
+    },
+    {
+     "name": "145.5",
+     "chapter_slug": "shangri-la-frontier-chapter-145-5"
+    },
+    {
+     "name": "135.5",
+     "chapter_slug": "shangri-la-frontier-chapter-135-5"
+    },
+    {
+     "name": "125.5",
+     "chapter_slug": "shangri-la-frontier-chapter-125-5"
+    },
+    {
+     "name": "115.5",
+     "chapter_slug": "shangri-la-frontier-chapter-115-5"
+    },
+    {
+     "name": "105.5",
+     "chapter_slug": "shangri-la-frontier-chapter-105-5"
+    },
+    {
+     "name": "95.5",
+     "chapter_slug": "shangri-la-frontier-chapter-95-5"
+    },
+    {
+     "name": "5.5",
+     "chapter_slug": "shangri-la-frontier-chapter-5-5"
     }
    ]
   }
@@ -28992,45 +29128,6 @@
      "chapter_number": 2.1
     }
    ]
-  }
- },
- {
-  "title": "Silver (FUJITA Kazuko)",
-  "cover": "https://readermc.org/images/thumbnails/Silver (FUJITA Kazuko).webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/silver-%2528fujita-kazuko%2529"
-  },
-  "max_chapter": 61,
-  "demonic_id": "6590",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Silver Gravekeeper",
-  "cover": "https://readermc.org/images/thumbnails/Silver Gravekeeper.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/silver-gravekeeper"
-  },
-  "max_chapter": 337,
-  "demonic_id": "82",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Silver Ring",
-  "cover": "https://readermc.org/images/thumbnails/Silver Ring.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/silver-ring"
-  },
-  "max_chapter": 3,
-  "demonic_id": "6592",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

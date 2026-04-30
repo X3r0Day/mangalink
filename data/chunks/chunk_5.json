@@ -1,5 +1,18 @@
 [
  {
+  "title": "Invincible to 100 Hits",
+  "cover": "https://readermc.org/images/thumbnails/Invincible to 100 Hits.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/invincible-to-100-hits"
+  },
+  "max_chapter": 49,
+  "demonic_id": "11861",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Invincible Villain",
   "cover": "https://readermc.org/images/thumbnails/Invincible Villain.webp",
   "status": "Ongoing",
@@ -6511,7 +6524,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/itsudemo-jitaku-ni-kaerareru-ore-wa%252c-isekai-de-gyoushounin-o-hajimemashita"
   },
-  "max_chapter": 67,
+  "max_chapter": 68,
   "demonic_id": "1306",
   "chapters": {
    "Demonic Scans": [
@@ -28506,19 +28519,6 @@
   },
   "max_chapter": 5,
   "demonic_id": "2542",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Kiss made no Kyori",
-  "cover": "https://readermc.org/images/thumbnails/Kiss made no Kyori.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/kiss-made-no-kyori"
-  },
-  "max_chapter": 5,
-  "demonic_id": "2543",
   "chapters": {
    "Demonic Scans": []
   }

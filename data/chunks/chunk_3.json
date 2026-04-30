@@ -9996,7 +9996,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/goddess-of-abundance-and-the-genius-rogue-apostle/"
   },
-  "max_chapter": 40,
+  "max_chapter": 41,
   "chapters": {
    "Thunder Scans": []
   }
@@ -19785,7 +19785,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/hazure-skill-%2522kage-ga-usui%2522-o-motsu-guild-shokuin-ga%252c-jitsuha-densetsu-no-ansatsusha"
   },
-  "max_chapter": 46,
+  "max_chapter": 48,
   "demonic_id": "766",
   "chapters": {
    "Demonic Scans": [
@@ -22991,10 +22991,22 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/henkyo-mob-kizoku-no-uchi-ni-totsuidekita-akuyaku-reijo-ga%252c-mechakucha-dekiru-yoi-yome-nanda-ga%253f"
   },
-  "max_chapter": 12.2,
+  "max_chapter": 14.1,
   "demonic_id": "12800",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "14.1",
+     "chapter_number": 14.1
+    },
+    {
+     "name": "13.2",
+     "chapter_number": 13.2
+    },
+    {
+     "name": "13.1",
+     "chapter_number": 13.1
+    },
     {
      "name": "12.2",
      "chapter_number": 12.2
@@ -25852,7 +25864,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/high-class"
   },
-  "max_chapter": 68,
+  "max_chapter": 69,
   "demonic_id": "12676",
   "chapters": {
    "Demonic Scans": [
@@ -26032,7 +26044,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/high-school-musical-genius-is-paganini-reincarnated"
   },
-  "max_chapter": 92,
+  "max_chapter": 93,
   "demonic_id": "12525",
   "chapters": {
    "Demonic Scans": []
@@ -26451,7 +26463,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/high-martial-world-one-hand-to-overwhelm-three-thousand-emperors/"
   },
-  "max_chapter": 25,
+  "max_chapter": 26,
   "chapters": {
    "Thunder Scans": []
   }

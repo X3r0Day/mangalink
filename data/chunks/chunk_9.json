@@ -1,5 +1,35 @@
 [
  {
+  "title": "Ossan no Remake Bouken Nikki: Autocamp kara Hajimaru Isekai Mankitsu Life",
+  "cover": "https://readermc.org/images/thumbnails/Ossan no Remake Bouken Nikki  Autocamp kara Hajimaru Isekai Mankitsu Life.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/ossan-no-remake-bouken-nikki%253a-autocamp-kara-hajimaru-isekai-mankitsu-life"
+  },
+  "max_chapter": 3,
+  "demonic_id": "5032",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "2.2",
+     "chapter_number": 2.2
+    },
+    {
+     "name": "2.1",
+     "chapter_number": 2.1
+    },
+    {
+     "name": "1.2",
+     "chapter_number": 1.2
+    },
+    {
+     "name": "1.1",
+     "chapter_number": 1.1
+    }
+   ]
+  }
+ },
+ {
   "title": "Ossan Yuusha wa Kajiya de Slow Life Hajimemashita",
   "cover": "https://readermc.org/images/thumbnails/Ossan Yuusha wa Kajiya de Slow Life Hajimemashita.webp",
   "status": "Ongoing",
@@ -5099,7 +5129,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/past-life-returner-%2528remake-2022%2529"
   },
-  "max_chapter": 170,
+  "max_chapter": 171,
   "demonic_id": "13136",
   "chapters": {
    "Demonic Scans": []
@@ -6095,7 +6125,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/perfect-number/"
   },
-  "max_chapter": 18.5,
+  "max_chapter": 19,
   "chapters": {
    "Thunder Scans": [
     {
@@ -22960,6 +22990,23 @@
   }
  },
  {
+  "title": "Rebirth of the Warrior King",
+  "cover": "https://en-thunderscans.com/wp-content/uploads/2026/04/2026-04-29-04-01-14-1777478474172-225x300.png",
+  "status": "Ongoing",
+  "sources": {
+   "Thunder Scans": "https://en-thunderscans.com/comics/rebirth-of-the-warrior-king/"
+  },
+  "max_chapter": 0,
+  "chapters": {
+   "Thunder Scans": [
+    {
+     "name": "0",
+     "chapter_slug": "rebirth-of-the-warrior-king-chapter-0"
+    }
+   ]
+  }
+ },
+ {
   "title": "ReBirth The Lunatic Taker",
   "cover": "https://readermc.org/images/thumbnails/ReBirth The Lunatic Taker.webp",
   "status": "Ongoing",
@@ -25993,7 +26040,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/reincarnated-as-the-strongest-monster-eater%253a-revenge-on-the-tyrant-dragon",
    "Thunder Scans": "https://en-thunderscans.com/comics/reincarnated-as-the-strongest-monster-eater-revenge-on-the-tyrant-dragon/"
   },
-  "max_chapter": 41,
+  "max_chapter": 42,
   "demonic_id": "13591",
   "chapters": {
    "Demonic Scans": [],
@@ -26044,7 +26091,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/reincarnated-escort-warrior",
    "Thunder Scans": "https://en-thunderscans.com/comics/reincarnated-escort-warrior/"
   },
-  "max_chapter": 150,
+  "max_chapter": 151,
   "chapter_count": 91,
   "chapters": {
    "Asura Scans": [],
@@ -28737,97 +28784,6 @@
   },
   "max_chapter": 5,
   "demonic_id": "5788",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Rengoku ni Warau",
-  "cover": "https://readermc.org/images/thumbnails/Rengoku ni Warau.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/rengoku-ni-warau"
-  },
-  "max_chapter": 157,
-  "demonic_id": "5789",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "97.4",
-     "chapter_number": 97.4
-    },
-    {
-     "name": "97.3",
-     "chapter_number": 97.3
-    },
-    {
-     "name": "97.2",
-     "chapter_number": 97.2
-    },
-    {
-     "name": "97.1",
-     "chapter_number": 97.1
-    },
-    {
-     "name": "92.3",
-     "chapter_number": 92.3
-    },
-    {
-     "name": "92.2",
-     "chapter_number": 92.2
-    },
-    {
-     "name": "92.1",
-     "chapter_number": 92.1
-    },
-    {
-     "name": "9.5",
-     "chapter_number": 9.5
-    },
-    {
-     "name": "9.005",
-     "chapter_number": 9.005
-    },
-    {
-     "name": "5.2",
-     "chapter_number": 5.2
-    },
-    {
-     "name": "5.1",
-     "chapter_number": 5.1
-    },
-    {
-     "name": "5.003",
-     "chapter_number": 5.003
-    },
-    {
-     "name": "5.002",
-     "chapter_number": 5.002
-    },
-    {
-     "name": "5.001",
-     "chapter_number": 5.001
-    },
-    {
-     "name": "2.2",
-     "chapter_number": 2.2
-    },
-    {
-     "name": "2.002",
-     "chapter_number": 2.002
-    }
-   ]
-  }
- },
- {
-  "title": "Rengoku no Karma",
-  "cover": "https://readermc.org/images/thumbnails/Rengoku no Karma.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/rengoku-no-karma"
-  },
-  "max_chapter": 16,
-  "demonic_id": "5790",
   "chapters": {
    "Demonic Scans": []
   }

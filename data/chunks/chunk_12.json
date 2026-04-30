@@ -1,5 +1,620 @@
 [
  {
+  "title": "The God of War Who Regressed to Level 2",
+  "cover": "https://cdn.flamecomics.xyz/uploads/images/series/126/thumbnail.png",
+  "status": "Ongoing",
+  "sources": {
+   "Flame Comics": "https://flamecomics.xyz/series/126"
+  },
+  "flame_series_id": 126,
+  "max_chapter": 115,
+  "chapter_count": 114,
+  "chapters": {
+   "Flame Comics": [
+    {
+     "name": "114",
+     "chapter_slug": "64e7503bb1103e97"
+    },
+    {
+     "name": "113",
+     "chapter_slug": "f0f4e26eb3697a6e"
+    },
+    {
+     "name": "112",
+     "chapter_slug": "bdad1f6f7c0a240a"
+    },
+    {
+     "name": "111",
+     "chapter_slug": "e818dc1d77f7c725"
+    },
+    {
+     "name": "110",
+     "chapter_slug": "4affffab036934b6"
+    },
+    {
+     "name": "109",
+     "chapter_slug": "6f12eb21dcf5f9ab"
+    },
+    {
+     "name": "108",
+     "chapter_slug": "9d5c5631cfbeffe5"
+    },
+    {
+     "name": "107",
+     "chapter_slug": "f52cd6035e99d59f"
+    },
+    {
+     "name": "106",
+     "chapter_slug": "d9efb8d7dd1ee020"
+    },
+    {
+     "name": "105",
+     "chapter_slug": "f6ea294fe4579a1a"
+    },
+    {
+     "name": "104",
+     "chapter_slug": "e0e06f210770fa15"
+    },
+    {
+     "name": "103",
+     "chapter_slug": "163dc8604e876544"
+    },
+    {
+     "name": "102",
+     "chapter_slug": "efc344702dfa1f73"
+    },
+    {
+     "name": "101",
+     "chapter_slug": "c5cd4463233d3f67"
+    },
+    {
+     "name": "100",
+     "chapter_slug": "8c0cfe5547cb1788"
+    },
+    {
+     "name": "99",
+     "chapter_slug": "1fe642769227d92b"
+    },
+    {
+     "name": "98",
+     "chapter_slug": "7db9b3daf71fb97f"
+    },
+    {
+     "name": "97",
+     "chapter_slug": "5544c597aaa5c31a"
+    },
+    {
+     "name": "96",
+     "chapter_slug": "3e2cf615fff515b4"
+    },
+    {
+     "name": "95",
+     "chapter_slug": "d8d8b518d84b7083"
+    },
+    {
+     "name": "94",
+     "chapter_slug": "3c5f1c9860ab218d"
+    },
+    {
+     "name": "93",
+     "chapter_slug": "7692c1eb578fba28"
+    },
+    {
+     "name": "92",
+     "chapter_slug": "724843061b90270f"
+    },
+    {
+     "name": "91",
+     "chapter_slug": "cbc137829c0504b7"
+    },
+    {
+     "name": "90",
+     "chapter_slug": "56e16bc4fba92aa1"
+    },
+    {
+     "name": "89",
+     "chapter_slug": "934496156982a817"
+    },
+    {
+     "name": "88",
+     "chapter_slug": "c9ac9f675cb14d63"
+    },
+    {
+     "name": "87",
+     "chapter_slug": "481d646d07c535f4"
+    },
+    {
+     "name": "86",
+     "chapter_slug": "da0143974f578a89"
+    },
+    {
+     "name": "85",
+     "chapter_slug": "a18c46a0688804b4"
+    },
+    {
+     "name": "84",
+     "chapter_slug": "83bf9717be696278"
+    },
+    {
+     "name": "83",
+     "chapter_slug": "fbdf6569f2537243"
+    },
+    {
+     "name": "82",
+     "chapter_slug": "9663a03b04a9b382"
+    },
+    {
+     "name": "81",
+     "chapter_slug": "c4b9df5e2d8320b2"
+    },
+    {
+     "name": "80",
+     "chapter_slug": "eb001af6a0e8493a"
+    },
+    {
+     "name": "79",
+     "chapter_slug": "b167de5071c449f8"
+    },
+    {
+     "name": "78",
+     "chapter_slug": "86877521abf493cc"
+    },
+    {
+     "name": "77",
+     "chapter_slug": "433cc85c986c93e0"
+    },
+    {
+     "name": "76",
+     "chapter_slug": "014994b6aced7133"
+    },
+    {
+     "name": "75",
+     "chapter_slug": "2ce8a69480188b24"
+    },
+    {
+     "name": "74",
+     "chapter_slug": "569ea7c13ec66e6b"
+    },
+    {
+     "name": "73",
+     "chapter_slug": "f2708fe75a6a6bc4"
+    },
+    {
+     "name": "72",
+     "chapter_slug": "1c2b7df1fd650faf"
+    },
+    {
+     "name": "71",
+     "chapter_slug": "aa5ca278cf49202f"
+    },
+    {
+     "name": "70",
+     "chapter_slug": "c37ce4a0f0bffba0"
+    },
+    {
+     "name": "69",
+     "chapter_slug": "120ea5b6f0a4a26b"
+    },
+    {
+     "name": "68",
+     "chapter_slug": "ae45b375b37f1950"
+    },
+    {
+     "name": "67",
+     "chapter_slug": "a8357604b7d14b2f"
+    },
+    {
+     "name": "66",
+     "chapter_slug": "87895757e8599d17"
+    },
+    {
+     "name": "65",
+     "chapter_slug": "c439f9b5f7b12c01"
+    },
+    {
+     "name": "64",
+     "chapter_slug": "2812b991e270ee1b"
+    },
+    {
+     "name": "63",
+     "chapter_slug": "280b215c7e193712"
+    },
+    {
+     "name": "62",
+     "chapter_slug": "2149a7b91b7a72dd"
+    },
+    {
+     "name": "61",
+     "chapter_slug": "2d1f981a3d2118e0"
+    },
+    {
+     "name": "60",
+     "chapter_slug": "d03b4e271b1516ff"
+    },
+    {
+     "name": "59",
+     "chapter_slug": "43cb0ce8e73a3013"
+    },
+    {
+     "name": "58",
+     "chapter_slug": "4b10ec26cd542cf0"
+    },
+    {
+     "name": "57",
+     "chapter_slug": "9a034e3b8c0a051f"
+    },
+    {
+     "name": "56",
+     "chapter_slug": "e1720a95246f1066"
+    },
+    {
+     "name": "55",
+     "chapter_slug": "3a7f20bd013da17d"
+    },
+    {
+     "name": "54",
+     "chapter_slug": "5aa88d0e6612f503"
+    },
+    {
+     "name": "53",
+     "chapter_slug": "8a55256b738c688f"
+    },
+    {
+     "name": "52",
+     "chapter_slug": "f032b54e8cd18207"
+    },
+    {
+     "name": "51",
+     "chapter_slug": "dd5250fec63d33a5"
+    },
+    {
+     "name": "50",
+     "chapter_slug": "08640e7807beafb5"
+    },
+    {
+     "name": "49",
+     "chapter_slug": "a5020e81f12cae9f"
+    },
+    {
+     "name": "48",
+     "chapter_slug": "c23b5c10f4e9f953"
+    },
+    {
+     "name": "47",
+     "chapter_slug": "5da23704fc32991b"
+    },
+    {
+     "name": "46",
+     "chapter_slug": "3375257a7fcd54e9"
+    },
+    {
+     "name": "45",
+     "chapter_slug": "cb57a2ec7711f27c"
+    },
+    {
+     "name": "44",
+     "chapter_slug": "8ce167fb54f158ec"
+    },
+    {
+     "name": "43",
+     "chapter_slug": "a0dbe0b4dffc2579"
+    },
+    {
+     "name": "42",
+     "chapter_slug": "804e0a3c20cb6d9b"
+    },
+    {
+     "name": "41",
+     "chapter_slug": "c973483b8c21ae29"
+    },
+    {
+     "name": "40",
+     "chapter_slug": "d3d8d7475516f8e6"
+    },
+    {
+     "name": "39",
+     "chapter_slug": "bb6c50b7a45f8475"
+    },
+    {
+     "name": "38",
+     "chapter_slug": "6a69f598e8c2101b"
+    },
+    {
+     "name": "37",
+     "chapter_slug": "ae82c2258704535f"
+    },
+    {
+     "name": "36",
+     "chapter_slug": "a12700d0a05e8045"
+    },
+    {
+     "name": "35",
+     "chapter_slug": "0d2477d6431aff1b"
+    },
+    {
+     "name": "34",
+     "chapter_slug": "b926c6d87b7aae4d"
+    },
+    {
+     "name": "33",
+     "chapter_slug": "4148f269c5994a09"
+    },
+    {
+     "name": "32",
+     "chapter_slug": "263c76c16f5a6290"
+    },
+    {
+     "name": "31",
+     "chapter_slug": "e355434fde765d69"
+    },
+    {
+     "name": "30",
+     "chapter_slug": "9ee85a7fe7ce8b4d"
+    },
+    {
+     "name": "29",
+     "chapter_slug": "e7024991d915c465"
+    },
+    {
+     "name": "28",
+     "chapter_slug": "f6124c1d80936b84"
+    },
+    {
+     "name": "27",
+     "chapter_slug": "a9e8ae96b0674c5d"
+    },
+    {
+     "name": "26",
+     "chapter_slug": "48e259a985dad1fe"
+    },
+    {
+     "name": "25",
+     "chapter_slug": "f993c5bf1843a38a"
+    },
+    {
+     "name": "24",
+     "chapter_slug": "b4569850575eb87c"
+    },
+    {
+     "name": "23",
+     "chapter_slug": "b0b18baf3a79bc46"
+    },
+    {
+     "name": "22",
+     "chapter_slug": "43ea1122ee5ac832"
+    },
+    {
+     "name": "21",
+     "chapter_slug": "515d3bce7092db63"
+    },
+    {
+     "name": "20",
+     "chapter_slug": "7397b28f573d6ab5"
+    },
+    {
+     "name": "19",
+     "chapter_slug": "d9954f171df028a9"
+    },
+    {
+     "name": "18",
+     "chapter_slug": "02f39adfcf713c73"
+    },
+    {
+     "name": "17",
+     "chapter_slug": "acca5f2fa5d134a3"
+    },
+    {
+     "name": "16",
+     "chapter_slug": "86315c8a1c0fe1ed"
+    },
+    {
+     "name": "15",
+     "chapter_slug": "9e229d4d9eb7a90f"
+    },
+    {
+     "name": "14",
+     "chapter_slug": "7c1c6e5fbd8d8cff"
+    },
+    {
+     "name": "13",
+     "chapter_slug": "7f881ec04297774f"
+    },
+    {
+     "name": "12",
+     "chapter_slug": "e1dfdc701e6797de"
+    },
+    {
+     "name": "11",
+     "chapter_slug": "ec0bbdca3151a64f"
+    },
+    {
+     "name": "10",
+     "chapter_slug": "98031a7579232cea"
+    },
+    {
+     "name": "9",
+     "chapter_slug": "632ea8f6ad82c8e5"
+    },
+    {
+     "name": "8",
+     "chapter_slug": "1054b0a9eb327141"
+    },
+    {
+     "name": "7",
+     "chapter_slug": "d553ca875c40b236"
+    },
+    {
+     "name": "6",
+     "chapter_slug": "8f7ed0e9853c7fa2"
+    },
+    {
+     "name": "5",
+     "chapter_slug": "d9a434e909cc1da1"
+    },
+    {
+     "name": "4",
+     "chapter_slug": "be5499a118630c09"
+    },
+    {
+     "name": "3",
+     "chapter_slug": "dc158cc1687cd8f0"
+    },
+    {
+     "name": "2",
+     "chapter_slug": "93aaf25a9cbca526"
+    },
+    {
+     "name": "1",
+     "chapter_slug": "bd92f19c2eb008cd"
+    },
+    {
+     "name": "0.5",
+     "chapter_slug": "fe77b5458d01f899"
+    }
+   ]
+  }
+ },
+ {
+  "title": "The God Slaying Demon King",
+  "cover": "https://readermc.org/images/thumbnails/The God Slaying Demon King.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/the-god-slaying-demon-king"
+  },
+  "max_chapter": 21,
+  "demonic_id": "11527",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "7.3",
+     "chapter_number": 7.3
+    },
+    {
+     "name": "7.2",
+     "chapter_number": 7.2
+    },
+    {
+     "name": "7.1",
+     "chapter_number": 7.1
+    },
+    {
+     "name": "6.3",
+     "chapter_number": 6.3
+    },
+    {
+     "name": "6.2",
+     "chapter_number": 6.2
+    },
+    {
+     "name": "6.1",
+     "chapter_number": 6.1
+    },
+    {
+     "name": "5.3",
+     "chapter_number": 5.3
+    },
+    {
+     "name": "5.2",
+     "chapter_number": 5.2
+    },
+    {
+     "name": "5.1",
+     "chapter_number": 5.1
+    },
+    {
+     "name": "4.4",
+     "chapter_number": 4.4
+    },
+    {
+     "name": "4.3",
+     "chapter_number": 4.3
+    },
+    {
+     "name": "4.2",
+     "chapter_number": 4.2
+    },
+    {
+     "name": "4.1",
+     "chapter_number": 4.1
+    },
+    {
+     "name": "3.4",
+     "chapter_number": 3.4
+    },
+    {
+     "name": "3.3",
+     "chapter_number": 3.3
+    },
+    {
+     "name": "3.2",
+     "chapter_number": 3.2
+    },
+    {
+     "name": "3.1",
+     "chapter_number": 3.1
+    },
+    {
+     "name": "2.3",
+     "chapter_number": 2.3
+    },
+    {
+     "name": "2.2",
+     "chapter_number": 2.2
+    },
+    {
+     "name": "2.1",
+     "chapter_number": 2.1
+    },
+    {
+     "name": "1.5",
+     "chapter_number": 1.5
+    },
+    {
+     "name": "1.4",
+     "chapter_number": 1.4
+    },
+    {
+     "name": "1.3",
+     "chapter_number": 1.3
+    },
+    {
+     "name": "1.2",
+     "chapter_number": 1.2
+    },
+    {
+     "name": "1.1",
+     "chapter_number": 1.1
+    }
+   ]
+  }
+ },
+ {
+  "title": "The God-Slaying Copycat",
+  "cover": "https://readermc.org/images/thumbnails/The God-Slaying Copycat.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/the-god%25252dslaying-copycat"
+  },
+  "max_chapter": 47,
+  "demonic_id": "12256",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
+  "title": "The God's Chosen ~ God of the Infected",
+  "cover": "https://readermc.org/images/thumbnails/The God’s Chosen ~ God of the Infected.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/the-god%2527s-chosen-%257e-god-of-the-infected"
+  },
+  "max_chapter": 25,
+  "demonic_id": "13081",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "The God's Contract in the Virtual World",
   "cover": "https://readermc.org/images/thumbnails/The God’s Contract in the Virtual World.webp",
   "status": "Ongoing",
@@ -4210,7 +4825,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-investor-who-sees-the-future",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-investor-who-sees-the-future/"
   },
-  "max_chapter": 92,
+  "max_chapter": 93,
   "demonic_id": "12647",
   "chapters": {
    "Demonic Scans": [],
@@ -7404,7 +8019,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-lawyer-who-sees-souls/"
   },
-  "max_chapter": 2,
+  "max_chapter": 6,
   "chapters": {
    "Thunder Scans": []
   }
@@ -8135,7 +8750,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-luoyang-branch-of-the-heavenly-demon-cult"
   },
-  "max_chapter": 43,
+  "max_chapter": 44,
   "demonic_id": "13165",
   "chapters": {
    "Demonic Scans": []
@@ -8316,7 +8931,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-magic-theory-of-the-regressed-sword-saint/"
   },
-  "max_chapter": 19,
+  "max_chapter": 20,
   "chapters": {
    "Thunder Scans": []
   }
@@ -10408,7 +11023,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-mysterious-world%2527s-greatest-martial-artist-little-prince"
   },
-  "max_chapter": 116,
+  "max_chapter": 117,
   "demonic_id": "12230",
   "chapters": {
    "Demonic Scans": []
@@ -12080,7 +12695,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-obsessive-maniac-is-trying-to-confine-me/"
   },
-  "max_chapter": 30,
+  "max_chapter": 31,
   "chapters": {
    "Violet Scans": []
   }
@@ -15684,7 +16299,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-regressed-extra-becomes-a-genius",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-regressed-extra-becomes-a-genius/"
   },
-  "max_chapter": 41,
+  "max_chapter": 42,
   "demonic_id": "13558",
   "chapters": {
    "Demonic Scans": [],
@@ -15755,7 +16370,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-regressed-sword-saint%2527s-magic-theory"
   },
-  "max_chapter": 18,
+  "max_chapter": 19,
   "demonic_id": "13620",
   "chapters": {
    "Demonic Scans": []
@@ -18559,7 +19174,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-saint-levels-up-through-necromancy/"
   },
-  "max_chapter": 18,
+  "max_chapter": 19,
   "chapters": {
    "Thunder Scans": []
   }
@@ -18908,7 +19523,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-saintess-killed-by-obsession/"
   },
-  "max_chapter": 19,
+  "max_chapter": 20,
   "chapters": {
    "Violet Scans": []
   }
@@ -18936,10 +19551,34 @@
    "Flame Comics": "https://flamecomics.xyz/series/161"
   },
   "flame_series_id": 161,
-  "max_chapter": 14,
+  "max_chapter": 20,
   "chapter_count": 1,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "20",
+     "chapter_slug": "4b6089dbe04bd343"
+    },
+    {
+     "name": "19",
+     "chapter_slug": "ec90ce9b24e9a8e5"
+    },
+    {
+     "name": "18",
+     "chapter_slug": "9dc2d3bafd9b6fdc"
+    },
+    {
+     "name": "17",
+     "chapter_slug": "dc6bfe6830a2e8bd"
+    },
+    {
+     "name": "16",
+     "chapter_slug": "c350cb760e5ff190"
+    },
+    {
+     "name": "15",
+     "chapter_slug": "428ea1141a359a88"
+    },
     {
      "name": "14",
      "chapter_slug": "d2ffce091c0e3864"
@@ -20958,7 +21597,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-strongest-assassin-gets-transferred-to-another-world-with-his-whole-class",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-strongest-assassin-gets-transferred-to-another-world-with-his-whole-class/"
   },
-  "max_chapter": 135,
+  "max_chapter": 136,
   "demonic_id": "11875",
   "chapters": {
    "Demonic Scans": [],
@@ -21093,7 +21732,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-strongest-brave-man-of-the-black-wizard"
   },
-  "max_chapter": 101,
+  "max_chapter": 102,
   "demonic_id": "623",
   "chapters": {
    "Demonic Scans": [
@@ -24975,7 +25614,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-villain-baby-makes-a-prophecy/"
   },
-  "max_chapter": 8,
+  "max_chapter": 20,
   "chapters": {
    "Violet Scans": []
   }
@@ -32981,7 +33620,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/this-is-the-law",
    "Thunder Scans": "https://en-thunderscans.com/comics/this-is-the-law/"
   },
-  "max_chapter": 195,
+  "max_chapter": 196,
   "demonic_id": "551",
   "chapters": {
    "Demonic Scans": [
@@ -37650,7 +38289,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/top-rankers-life-guide-for-aspiring-writers/"
   },
-  "max_chapter": 62,
+  "max_chapter": 63,
   "chapters": {
    "Thunder Scans": [
     {
@@ -41700,91 +42339,6 @@
   },
   "max_chapter": 4,
   "demonic_id": "6932",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Ume ni Uguisu",
-  "cover": "https://readermc.org/images/thumbnails/Ume ni Uguisu.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/ume-ni-uguisu"
-  },
-  "max_chapter": 2,
-  "demonic_id": "6933",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Umehara - Fighting Gamers!",
-  "cover": "https://readermc.org/images/thumbnails/Umehara - Fighting Gamers!.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/umehara-%25252d-fighting-gamers%2521"
-  },
-  "max_chapter": 9,
-  "demonic_id": "6934",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Umi ga Hashiru End Roll",
-  "cover": "https://readermc.org/images/thumbnails/Umi ga Hashiru End Roll.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/umi-ga-hashiru-end-roll"
-  },
-  "max_chapter": 42,
-  "demonic_id": "11349",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "38.6",
-     "chapter_number": 38.6
-    },
-    {
-     "name": "38.5",
-     "chapter_number": 38.5
-    },
-    {
-     "name": "34.6",
-     "chapter_number": 34.6
-    },
-    {
-     "name": "34.5",
-     "chapter_number": 34.5
-    },
-    {
-     "name": "30.5",
-     "chapter_number": 30.5
-    },
-    {
-     "name": "25.5",
-     "chapter_number": 25.5
-    },
-    {
-     "name": "20.5",
-     "chapter_number": 20.5
-    },
-    {
-     "name": "15.5",
-     "chapter_number": 15.5
-    }
-   ]
-  }
- },
- {
-  "title": "Umi ni Ochiru Tsubame",
-  "cover": "https://readermc.org/images/thumbnails/Umi ni Ochiru Tsubame.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/umi-ni-ochiru-tsubame"
-  },
-  "max_chapter": 3,
-  "demonic_id": "6935",
   "chapters": {
    "Demonic Scans": []
   }

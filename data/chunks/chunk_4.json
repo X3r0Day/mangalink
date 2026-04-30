@@ -3738,7 +3738,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/humanity-these-days-is-underestimating-the-demon-king/"
   },
-  "max_chapter": 39,
+  "max_chapter": 40,
   "chapters": {
    "Thunder Scans": []
   }
@@ -4416,7 +4416,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/i-alone-am-an-ex-class-summoner/"
   },
-  "max_chapter": 22,
+  "max_chapter": 23,
   "chapters": {
    "Thunder Scans": []
   }
@@ -6009,7 +6009,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/i-became-a-wizard-in-a-medieval-fantasy-world/"
   },
-  "max_chapter": null,
+  "max_chapter": 20,
   "chapters": {
    "Thunder Scans": []
   }
@@ -7926,7 +7926,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/i-became-unrivaled-by-converting-10000-skills-into-a-top-tier-skill/"
   },
-  "max_chapter": 34,
+  "max_chapter": 35,
   "chapters": {
    "Thunder Scans": []
   }
@@ -11128,7 +11128,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/i-have-no-intention-of-returning-to-you/"
   },
-  "max_chapter": 109,
+  "max_chapter": 110,
   "chapters": {
    "Violet Scans": []
   }
@@ -12516,7 +12516,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/i-quit-my-job-because-i-was-too-busy-being-a-genius-court-wizard/"
   },
-  "max_chapter": 39,
+  "max_chapter": 40,
   "chapters": {
    "Thunder Scans": []
   }
@@ -13439,7 +13439,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/i-reincarnated-as-a-minor-villain-mob-and-somehow-became-famous/"
   },
-  "max_chapter": 20,
+  "max_chapter": 21,
   "chapters": {
    "Thunder Scans": []
   }
@@ -15828,6 +15828,23 @@
   }
  },
  {
+  "title": "I Turn Skills into Broken Ones with a Single Word",
+  "cover": "https://en-thunderscans.com/wp-content/uploads/2026/04/2026-04-29-04-05-45-1777478745295-225x300.png",
+  "status": "Ongoing",
+  "sources": {
+   "Thunder Scans": "https://en-thunderscans.com/comics/i-turn-skills-into-broken-ones-with-a-single-word/"
+  },
+  "max_chapter": 0,
+  "chapters": {
+   "Thunder Scans": [
+    {
+     "name": "0",
+     "chapter_slug": "i-turn-skills-into-broken-ones-with-a-single-word-chapter-0"
+    }
+   ]
+  }
+ },
+ {
   "title": "I Underestimated My Oshi’s Attachment",
   "cover": "https://violetscans.org/wp-content/uploads/2025/07/2025-09-14-02-04-20-1757815460186-201x300.png",
   "status": "Ongoing",
@@ -16630,7 +16647,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/i-want-to-live-life-effortlessly/"
   },
-  "max_chapter": 80,
+  "max_chapter": 81,
   "chapters": {
    "Violet Scans": []
   }
@@ -27416,7 +27433,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/if-i-may-dare-hope/"
   },
-  "max_chapter": 34,
+  "max_chapter": 36,
   "chapters": {
    "Violet Scans": []
   }
@@ -33390,19 +33407,6 @@
   "max_chapter": 50,
   "chapters": {
    "Thunder Scans": []
-  }
- },
- {
-  "title": "Invincible to 100 Hits",
-  "cover": "https://readermc.org/images/thumbnails/Invincible to 100 Hits.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/invincible-to-100-hits"
-  },
-  "max_chapter": 49,
-  "demonic_id": "11861",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

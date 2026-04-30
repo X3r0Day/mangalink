@@ -1,5 +1,90 @@
 [
  {
+  "title": "Ume ni Uguisu",
+  "cover": "https://readermc.org/images/thumbnails/Ume ni Uguisu.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/ume-ni-uguisu"
+  },
+  "max_chapter": 2,
+  "demonic_id": "6933",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
+  "title": "Umehara - Fighting Gamers!",
+  "cover": "https://readermc.org/images/thumbnails/Umehara - Fighting Gamers!.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/umehara-%25252d-fighting-gamers%2521"
+  },
+  "max_chapter": 9,
+  "demonic_id": "6934",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
+  "title": "Umi ga Hashiru End Roll",
+  "cover": "https://readermc.org/images/thumbnails/Umi ga Hashiru End Roll.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/umi-ga-hashiru-end-roll"
+  },
+  "max_chapter": 42,
+  "demonic_id": "11349",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "38.6",
+     "chapter_number": 38.6
+    },
+    {
+     "name": "38.5",
+     "chapter_number": 38.5
+    },
+    {
+     "name": "34.6",
+     "chapter_number": 34.6
+    },
+    {
+     "name": "34.5",
+     "chapter_number": 34.5
+    },
+    {
+     "name": "30.5",
+     "chapter_number": 30.5
+    },
+    {
+     "name": "25.5",
+     "chapter_number": 25.5
+    },
+    {
+     "name": "20.5",
+     "chapter_number": 20.5
+    },
+    {
+     "name": "15.5",
+     "chapter_number": 15.5
+    }
+   ]
+  }
+ },
+ {
+  "title": "Umi ni Ochiru Tsubame",
+  "cover": "https://readermc.org/images/thumbnails/Umi ni Ochiru Tsubame.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/umi-ni-ochiru-tsubame"
+  },
+  "max_chapter": 3,
+  "demonic_id": "6935",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Umi no Chikyuugi Nocturne",
   "cover": "https://readermc.org/images/thumbnails/Umi no Chikyuugi Nocturne.webp",
   "status": "Ongoing",
@@ -5680,7 +5765,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/villain-ill-do-everything-except-marriage-for-you/"
   },
-  "max_chapter": 64,
+  "max_chapter": 65,
   "chapters": {
    "Violet Scans": []
   }
@@ -9764,7 +9849,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/when-love-ends-so-do-you/"
   },
-  "max_chapter": 1,
+  "max_chapter": 2,
   "chapters": {
    "Thunder Scans": []
   }
