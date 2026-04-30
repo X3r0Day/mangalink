@@ -1,5 +1,23 @@
 [
  {
+  "title": "Umi no Chikyuugi Nocturne",
+  "cover": "https://readermc.org/images/thumbnails/Umi no Chikyuugi Nocturne.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/umi-no-chikyuugi-nocturne"
+  },
+  "max_chapter": 0,
+  "demonic_id": "6936",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "0",
+     "chapter_number": 0
+    }
+   ]
+  }
+ },
+ {
   "title": "Umi no Cradle",
   "cover": "https://readermc.org/images/thumbnails/Umi no Cradle.webp",
   "status": "Ongoing",

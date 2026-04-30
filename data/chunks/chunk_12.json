@@ -187,7 +187,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-grand-duke-woke-up-in-a-strange-place/"
   },
-  "max_chapter": 22,
+  "max_chapter": 23,
   "chapters": {
    "Violet Scans": []
   }
@@ -8899,7 +8899,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-male-lead-and-i-are-trapped-in-a-horror-game/"
   },
-  "max_chapter": 97,
+  "max_chapter": 98,
   "chapters": {
    "Violet Scans": []
   }
@@ -14845,6 +14845,18 @@
   "chapter_count": null
  },
  {
+  "title": "The Problematic Little Girl Realized She Was Reincarnated When She Encountered a Chaotic Situation",
+  "cover": "https://violetscans.org/wp-content/uploads/2026/04/2026-04-30-12-22-22-1777508542076-211x300.jpeg",
+  "status": "Ongoing",
+  "sources": {
+   "Violet Scans": "https://violetscans.org/comics/the-problematic-little-girl-realized-she-was-reincarnated-when-she-encountered-a-chaotic-situation/"
+  },
+  "max_chapter": 18,
+  "chapters": {
+   "Violet Scans": []
+  }
+ },
+ {
   "title": "The Problematic Prince",
   "cover": "https://violetscans.org/wp-content/uploads/2025/06/2025-06-16-07-02-24-1750100544570-207x300.jpg",
   "status": "Ongoing",
@@ -18846,7 +18858,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-saintess-everyone-hated-is-loved-only-after-her-death/"
   },
-  "max_chapter": 32,
+  "max_chapter": 33,
   "chapters": {
    "Violet Scans": []
   }
@@ -18924,10 +18936,62 @@
    "Flame Comics": "https://flamecomics.xyz/series/161"
   },
   "flame_series_id": 161,
-  "max_chapter": 1,
+  "max_chapter": 14,
   "chapter_count": 1,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "14",
+     "chapter_slug": "d2ffce091c0e3864"
+    },
+    {
+     "name": "13",
+     "chapter_slug": "2eacbf313379d646"
+    },
+    {
+     "name": "12",
+     "chapter_slug": "a952093e008f56fb"
+    },
+    {
+     "name": "11",
+     "chapter_slug": "0147fa0c00ecd261"
+    },
+    {
+     "name": "10",
+     "chapter_slug": "2e8e9bcd17e5dc59"
+    },
+    {
+     "name": "9",
+     "chapter_slug": "4c388fbd65c7c9a1"
+    },
+    {
+     "name": "8",
+     "chapter_slug": "0868a054f58cd39f"
+    },
+    {
+     "name": "7",
+     "chapter_slug": "efa27999ea27ce51"
+    },
+    {
+     "name": "6",
+     "chapter_slug": "e1c4cbc7296acfec"
+    },
+    {
+     "name": "5",
+     "chapter_slug": "d9a549f0c3369aca"
+    },
+    {
+     "name": "4",
+     "chapter_slug": "b17bc27b8167fc17"
+    },
+    {
+     "name": "3",
+     "chapter_slug": "cc04175783712713"
+    },
+    {
+     "name": "2",
+     "chapter_slug": "4ea3ea865d1ba779"
+    },
     {
      "name": "1",
      "chapter_slug": "4b75bb3c8a952be4"
@@ -23798,7 +23862,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-top-ranker%2527s-aspiring-writer-life-manual"
   },
-  "max_chapter": 62,
+  "max_chapter": 63,
   "demonic_id": "13066",
   "chapters": {
    "Demonic Scans": [
@@ -24911,7 +24975,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-villain-baby-makes-a-prophecy/"
   },
-  "max_chapter": 1,
+  "max_chapter": 8,
   "chapters": {
    "Violet Scans": []
   }
@@ -25002,7 +25066,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-villains-pure-love/"
   },
-  "max_chapter": 24,
+  "max_chapter": 25,
   "chapters": {
    "Violet Scans": []
   }
@@ -34615,7 +34679,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/to-me-who-doesnt-love-you/"
   },
-  "max_chapter": 21,
+  "max_chapter": 30,
   "chapters": {
    "Violet Scans": []
   }
@@ -34627,7 +34691,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/to-my-beloved-scoundrel/"
   },
-  "max_chapter": 28,
+  "max_chapter": 29,
   "chapters": {
    "Violet Scans": []
   }
@@ -41723,24 +41787,6 @@
   "demonic_id": "6935",
   "chapters": {
    "Demonic Scans": []
-  }
- },
- {
-  "title": "Umi no Chikyuugi Nocturne",
-  "cover": "https://readermc.org/images/thumbnails/Umi no Chikyuugi Nocturne.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/umi-no-chikyuugi-nocturne"
-  },
-  "max_chapter": 0,
-  "demonic_id": "6936",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "0",
-     "chapter_number": 0
-    }
-   ]
   }
  }
 ]
