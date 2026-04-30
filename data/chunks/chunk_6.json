@@ -1,5 +1,18 @@
 [
  {
+  "title": "Kiss Kiss",
+  "cover": "https://readermc.org/images/thumbnails/Kiss Kiss.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/kiss-kiss"
+  },
+  "max_chapter": 5,
+  "demonic_id": "2542",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Kiss made no Kyori",
   "cover": "https://readermc.org/images/thumbnails/Kiss made no Kyori.webp",
   "status": "Ongoing",
@@ -26173,24 +26186,6 @@
     {
      "name": "2.2",
      "chapter_number": 2.2
-    }
-   ]
-  }
- },
- {
-  "title": "Magnolia",
-  "cover": "https://readermc.org/images/thumbnails/Magnolia.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/magnolia"
-  },
-  "max_chapter": 38,
-  "demonic_id": "2982",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "4.5",
-     "chapter_number": 4.5
     }
    ]
   }

@@ -1,5 +1,20 @@
 [
  {
+  "title": "The God of War is Leveling Up",
+  "cover": "https://readermc.org/images/thumbnails/The God of War is Leveling Up.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/the-god-of-war-is-leveling-up",
+   "Thunder Scans": "https://en-thunderscans.com/comics/the-god-of-war-is-leveling-up/"
+  },
+  "max_chapter": 84,
+  "demonic_id": "13036",
+  "chapters": {
+   "Demonic Scans": [],
+   "Thunder Scans": []
+  }
+ },
+ {
   "title": "The God of War Who Regressed to Level 2",
   "cover": "https://cdn.flamecomics.xyz/uploads/images/series/126/thumbnail.png",
   "status": "Ongoing",
@@ -42328,19 +42343,6 @@
      "chapter_number": 41.5
     }
    ]
-  }
- },
- {
-  "title": "Ultraman Tiga",
-  "cover": "https://readermc.org/images/thumbnails/Ultraman Tiga.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/ultraman-tiga"
-  },
-  "max_chapter": 4,
-  "demonic_id": "6932",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

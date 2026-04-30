@@ -1,5 +1,18 @@
 [
  {
+  "title": "Rengoku Deadroll",
+  "cover": "https://readermc.org/images/thumbnails/Rengoku Deadroll.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/rengoku-deadroll"
+  },
+  "max_chapter": 5,
+  "demonic_id": "5788",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Rengoku ni Warau",
   "cover": "https://readermc.org/images/thumbnails/Rengoku ni Warau.webp",
   "status": "Ongoing",
@@ -16047,7 +16060,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/second-male-lead-come-to-my-bed/"
   },
-  "max_chapter": 47,
+  "max_chapter": 48,
   "chapters": {
    "Violet Scans": []
   }
@@ -29096,36 +29109,6 @@
     {
      "name": "0",
      "chapter_number": 0
-    }
-   ]
-  }
- },
- {
-  "title": "Silver",
-  "cover": "https://readermc.org/images/thumbnails/Silver.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/silver"
-  },
-  "max_chapter": 3.2,
-  "demonic_id": "6588",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "3.2",
-     "chapter_number": 3.2
-    },
-    {
-     "name": "3.1",
-     "chapter_number": 3.1
-    },
-    {
-     "name": "2.2",
-     "chapter_number": 2.2
-    },
-    {
-     "name": "2.1",
-     "chapter_number": 2.1
     }
    ]
   }

@@ -1,5 +1,35 @@
 [
  {
+  "title": "Silver",
+  "cover": "https://readermc.org/images/thumbnails/Silver.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/silver"
+  },
+  "max_chapter": 3.2,
+  "demonic_id": "6588",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "3.2",
+     "chapter_number": 3.2
+    },
+    {
+     "name": "3.1",
+     "chapter_number": 3.1
+    },
+    {
+     "name": "2.2",
+     "chapter_number": 2.2
+    },
+    {
+     "name": "2.1",
+     "chapter_number": 2.1
+    }
+   ]
+  }
+ },
+ {
   "title": "Silver (FUJITA Kazuko)",
   "cover": "https://readermc.org/images/thumbnails/Silver (FUJITA Kazuko).webp",
   "status": "Ongoing",
@@ -37035,7 +37065,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-closet-fan-princess/"
   },
-  "max_chapter": 101,
+  "max_chapter": 102,
   "chapters": {
    "Violet Scans": [
     {
@@ -41040,7 +41070,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-enemy-kings-substitute-bride/"
   },
-  "max_chapter": 30,
+  "max_chapter": 31,
   "chapters": {
    "Violet Scans": []
   }
@@ -44328,20 +44358,5 @@
    "Demonic Scans": []
   },
   "demonic_id": "349"
- },
- {
-  "title": "The God of War is Leveling Up",
-  "cover": "https://readermc.org/images/thumbnails/The God of War is Leveling Up.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/the-god-of-war-is-leveling-up",
-   "Thunder Scans": "https://en-thunderscans.com/comics/the-god-of-war-is-leveling-up/"
-  },
-  "max_chapter": 84,
-  "demonic_id": "13036",
-  "chapters": {
-   "Demonic Scans": [],
-   "Thunder Scans": []
-  }
  }
 ]

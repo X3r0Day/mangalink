@@ -1,5 +1,18 @@
 [
  {
+  "title": "Ultraman Tiga",
+  "cover": "https://readermc.org/images/thumbnails/Ultraman Tiga.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/ultraman-tiga"
+  },
+  "max_chapter": 4,
+  "demonic_id": "6932",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Ume ni Uguisu",
   "cover": "https://readermc.org/images/thumbnails/Ume ni Uguisu.webp",
   "status": "Ongoing",

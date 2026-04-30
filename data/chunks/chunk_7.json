@@ -1,5 +1,23 @@
 [
  {
+  "title": "Magnolia",
+  "cover": "https://readermc.org/images/thumbnails/Magnolia.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/magnolia"
+  },
+  "max_chapter": 38,
+  "demonic_id": "2982",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "4.5",
+     "chapter_number": 4.5
+    }
+   ]
+  }
+ },
+ {
   "title": "Magnolia Online",
   "cover": "https://readermc.org/images/thumbnails/Magnolia Online.webp",
   "status": "Ongoing",
@@ -29811,19 +29829,6 @@
   "chapters": {
    "Demonic Scans": [],
    "Thunder Scans": []
-  }
- },
- {
-  "title": "My disciples are super gods",
-  "cover": "https://readermc.org/images/thumbnails/My disciples are super gods.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/my-disciples-are-super-gods"
-  },
-  "max_chapter": 219,
-  "demonic_id": "1295",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

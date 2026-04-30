@@ -1,5 +1,18 @@
 [
  {
+  "title": "My disciples are super gods",
+  "cover": "https://readermc.org/images/thumbnails/My disciples are super gods.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/my-disciples-are-super-gods"
+  },
+  "max_chapter": 219,
+  "demonic_id": "1295",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "My Disciples Cultivate, While I Slack Off!",
   "cover": "https://readermc.org/images/thumbnails/My Disciples Cultivate, While I Slack Off!.webp",
   "status": "Ongoing",
@@ -31362,96 +31375,6 @@
     {
      "name": "17.1",
      "chapter_number": 17.1
-    }
-   ]
-  }
- },
- {
-  "title": "Ossan Boukensha Kein no Zenkou",
-  "cover": "https://readermc.org/images/thumbnails/Ossan Boukensha Kein no Zenkou.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/ossan-boukensha-kein-no-zenkou"
-  },
-  "max_chapter": 48,
-  "demonic_id": "5031",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "30.3",
-     "chapter_number": 30.3
-    },
-    {
-     "name": "30.2",
-     "chapter_number": 30.2
-    },
-    {
-     "name": "30.1",
-     "chapter_number": 30.1
-    },
-    {
-     "name": "23.2",
-     "chapter_number": 23.2
-    },
-    {
-     "name": "23.1",
-     "chapter_number": 23.1
-    },
-    {
-     "name": "22.2",
-     "chapter_number": 22.2
-    },
-    {
-     "name": "22.1",
-     "chapter_number": 22.1
-    },
-    {
-     "name": "21.2",
-     "chapter_number": 21.2
-    },
-    {
-     "name": "21.1",
-     "chapter_number": 21.1
-    },
-    {
-     "name": "20.2",
-     "chapter_number": 20.2
-    },
-    {
-     "name": "20.1",
-     "chapter_number": 20.1
-    },
-    {
-     "name": "19.2",
-     "chapter_number": 19.2
-    },
-    {
-     "name": "19.1",
-     "chapter_number": 19.1
-    },
-    {
-     "name": "18.2",
-     "chapter_number": 18.2
-    },
-    {
-     "name": "18.1",
-     "chapter_number": 18.1
-    },
-    {
-     "name": "17.2",
-     "chapter_number": 17.2
-    },
-    {
-     "name": "17.1",
-     "chapter_number": 17.1
-    },
-    {
-     "name": "16.2",
-     "chapter_number": 16.2
-    },
-    {
-     "name": "10.2",
-     "chapter_number": 10.2
     }
    ]
   }
