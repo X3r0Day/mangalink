@@ -1434,7 +1434,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/return-of-the-devourer/"
   },
-  "max_chapter": 25,
+  "max_chapter": 26,
   "chapters": {
    "Thunder Scans": []
   }
@@ -3739,7 +3739,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/reverse-tower-dungeon",
    "Thunder Scans": "https://en-thunderscans.com/comics/reverse-tower-dungeon/"
   },
-  "max_chapter": 88,
+  "max_chapter": 89,
   "demonic_id": "11552",
   "chapters": {
    "Demonic Scans": [],
@@ -8004,7 +8004,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/s%25252dclass-hunter-heals-with-monsters",
    "Thunder Scans": "https://en-thunderscans.com/comics/s-class-hunter-heals-with-monsters/"
   },
-  "max_chapter": 44,
+  "max_chapter": 45,
   "demonic_id": "13379",
   "chapters": {
    "Demonic Scans": [
