@@ -1,5 +1,31 @@
 [
  {
+  "title": "Kiss in the Blue",
+  "cover": "https://readermc.org/images/thumbnails/Kiss in the Blue.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/kiss-in-the-blue"
+  },
+  "max_chapter": 23,
+  "demonic_id": "2540",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
+  "title": "Kiss kara Hajimaru",
+  "cover": "https://readermc.org/images/thumbnails/Kiss kara Hajimaru.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/kiss-kara-hajimaru"
+  },
+  "max_chapter": 3,
+  "demonic_id": "2541",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Kiss Kiss",
   "cover": "https://readermc.org/images/thumbnails/Kiss Kiss.webp",
   "status": "Ongoing",
@@ -1022,7 +1048,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/kizokuka-sannan-no-nariagari-life"
   },
-  "max_chapter": 5,
+  "max_chapter": 17,
   "demonic_id": "12318",
   "chapters": {
    "Demonic Scans": [
@@ -7760,10 +7786,14 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/kurai-anoko-to-shitai-koto"
   },
-  "max_chapter": 86,
+  "max_chapter": 86.5,
   "demonic_id": "11332",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "86.5",
+     "chapter_number": 86.5
+    },
     {
      "name": "74.5",
      "chapter_number": 74.5
@@ -18202,7 +18232,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/like-we-never-knew-each-other/"
   },
-  "max_chapter": 17,
+  "max_chapter": 18,
   "chapters": {
    "Violet Scans": []
   }
@@ -26157,37 +26187,6 @@
   "demonic_id": "2979",
   "chapters": {
    "Demonic Scans": []
-  }
- },
- {
-  "title": "Magma Taishi",
-  "cover": "https://readermc.org/images/thumbnails/Magma Taishi.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/magma-taishi"
-  },
-  "max_chapter": 20,
-  "demonic_id": "2980",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Magnet na Watashitachi",
-  "cover": "https://readermc.org/images/thumbnails/Magnet na Watashitachi.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/magnet-na-watashitachi"
-  },
-  "max_chapter": 6,
-  "demonic_id": "2981",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "2.2",
-     "chapter_number": 2.2
-    }
-   ]
   }
  }
 ]

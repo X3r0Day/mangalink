@@ -1,5 +1,41 @@
 [
  {
+  "title": "Invincible Starts with a Severed Hand",
+  "cover": "https://readermc.org/images/thumbnails/Invincible Starts with a Severed Hand.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/invincible-starts-with-a-severed-hand"
+  },
+  "max_chapter": 6,
+  "demonic_id": "12829",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "0",
+     "chapter_number": 0
+    }
+   ]
+  }
+ },
+ {
+  "title": "Invincible Sword Domain",
+  "cover": "https://readermc.org/images/thumbnails/Invincible Sword Domain.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/invincible-sword-domain"
+  },
+  "max_chapter": 111,
+  "demonic_id": "10803",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "0",
+     "chapter_number": 0
+    }
+   ]
+  }
+ },
+ {
   "title": "Invincible Territory",
   "cover": "https://en-thunderscans.com/wp-content/uploads/2024/08/2024-08-27-01-10-15-1724721015726-210x300.jpg",
   "status": "Completed",
@@ -28492,32 +28528,6 @@
   },
   "max_chapter": 14,
   "demonic_id": "2539",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Kiss in the Blue",
-  "cover": "https://readermc.org/images/thumbnails/Kiss in the Blue.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/kiss-in-the-blue"
-  },
-  "max_chapter": 23,
-  "demonic_id": "2540",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Kiss kara Hajimaru",
-  "cover": "https://readermc.org/images/thumbnails/Kiss kara Hajimaru.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/kiss-kara-hajimaru"
-  },
-  "max_chapter": 3,
-  "demonic_id": "2541",
   "chapters": {
    "Demonic Scans": []
   }

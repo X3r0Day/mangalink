@@ -1,5 +1,36 @@
 [
  {
+  "title": "Renchi na Himoto",
+  "cover": "https://readermc.org/images/thumbnails/Renchi na Himoto.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/renchi-na-himoto"
+  },
+  "max_chapter": 6,
+  "demonic_id": "5787",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
+  "title": "Rendezvous",
+  "cover": "https://readermc.org/images/thumbnails/Rendezvous.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/rendezvous"
+  },
+  "max_chapter": 93,
+  "demonic_id": "1273",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "51.2",
+     "chapter_number": 51.2
+    }
+   ]
+  }
+ },
+ {
   "title": "Rengoku Deadroll",
   "cover": "https://readermc.org/images/thumbnails/Rengoku Deadroll.webp",
   "status": "Ongoing",
@@ -577,7 +608,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/restart-of-the-reincarnated-card-player"
   },
-  "max_chapter": 23,
+  "max_chapter": 25,
   "demonic_id": "12324",
   "chapters": {
    "Demonic Scans": []
@@ -1489,7 +1520,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/return-of-the-frozen-player",
    "Flame Comics": "https://flamecomics.xyz/series/153"
   },
-  "max_chapter": 208,
+  "max_chapter": 209,
   "demonic_id": "431",
   "chapters": {
    "Demonic Scans": [
@@ -1547,6 +1578,10 @@
     }
    ],
    "Flame Comics": [
+    {
+     "name": "208",
+     "chapter_slug": "296cec000dbdf470"
+    },
     {
      "name": "207",
      "chapter_slug": "5572d76a6eeed045"
@@ -4438,7 +4473,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/rise-of-the-soul-devouring-god/"
   },
-  "max_chapter": 6,
+  "max_chapter": 7,
   "chapters": {
    "Thunder Scans": []
   }
@@ -12613,7 +12648,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/sasha-and-her-otaku-classmate"
   },
-  "max_chapter": 98,
+  "max_chapter": 99,
   "demonic_id": "11627",
   "chapters": {
    "Demonic Scans": [
@@ -14484,7 +14519,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/science-high-school-incident/"
   },
-  "max_chapter": 1,
+  "max_chapter": 2,
   "chapters": {
    "Thunder Scans": []
   }
@@ -28975,141 +29010,6 @@
   "demonic_id": "6603",
   "chapters": {
    "Demonic Scans": [
-    {
-     "name": "0",
-     "chapter_number": 0
-    }
-   ]
-  }
- },
- {
-  "title": "Silent Kiss",
-  "cover": "https://readermc.org/images/thumbnails/Silent Kiss.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/silent-kiss"
-  },
-  "max_chapter": 8,
-  "demonic_id": "6585",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Silent Witch Chinmoku no Majo no Kakushigoto",
-  "cover": "https://readermc.org/images/thumbnails/Silent Witch Chinmoku no Majo no Kakushigoto.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/silent-witch-chinmoku-no-majo-no-kakushigoto"
-  },
-  "max_chapter": 30,
-  "demonic_id": "1638",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "29.2",
-     "chapter_number": 29.2
-    },
-    {
-     "name": "29.1",
-     "chapter_number": 29.1
-    },
-    {
-     "name": "20.2",
-     "chapter_number": 20.2
-    },
-    {
-     "name": "20.1",
-     "chapter_number": 20.1
-    },
-    {
-     "name": "19.2",
-     "chapter_number": 19.2
-    },
-    {
-     "name": "19.1",
-     "chapter_number": 19.1
-    },
-    {
-     "name": "18.2",
-     "chapter_number": 18.2
-    },
-    {
-     "name": "18.1",
-     "chapter_number": 18.1
-    },
-    {
-     "name": "17.2",
-     "chapter_number": 17.2
-    },
-    {
-     "name": "17.1",
-     "chapter_number": 17.1
-    },
-    {
-     "name": "16.2",
-     "chapter_number": 16.2
-    },
-    {
-     "name": "16.1",
-     "chapter_number": 16.1
-    },
-    {
-     "name": "14.2",
-     "chapter_number": 14.2
-    },
-    {
-     "name": "14.1",
-     "chapter_number": 14.1
-    },
-    {
-     "name": "13.5",
-     "chapter_number": 13.5
-    },
-    {
-     "name": "8.5",
-     "chapter_number": 8.5
-    },
-    {
-     "name": "5.2",
-     "chapter_number": 5.2
-    },
-    {
-     "name": "5.1",
-     "chapter_number": 5.1
-    },
-    {
-     "name": "4.3",
-     "chapter_number": 4.3
-    },
-    {
-     "name": "4.2",
-     "chapter_number": 4.2
-    },
-    {
-     "name": "4.1",
-     "chapter_number": 4.1
-    },
-    {
-     "name": "3.2",
-     "chapter_number": 3.2
-    },
-    {
-     "name": "3.1",
-     "chapter_number": 3.1
-    },
-    {
-     "name": "2.2",
-     "chapter_number": 2.2
-    },
-    {
-     "name": "2.1",
-     "chapter_number": 2.1
-    },
-    {
-     "name": "1.2",
-     "chapter_number": 1.2
-    },
     {
      "name": "0",
      "chapter_number": 0

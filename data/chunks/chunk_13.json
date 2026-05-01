@@ -1,5 +1,49 @@
 [
  {
+  "title": "Ultra Maniac",
+  "cover": "https://readermc.org/images/thumbnails/Ultra Maniac.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/ultra-maniac"
+  },
+  "max_chapter": 25,
+  "demonic_id": "6930",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "20.1",
+     "chapter_number": 20.1
+    },
+    {
+     "name": "15.1",
+     "chapter_number": 15.1
+    }
+   ]
+  }
+ },
+ {
+  "title": "Ultraman",
+  "cover": "https://readermc.org/images/thumbnails/Ultraman.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/ultraman"
+  },
+  "max_chapter": 116,
+  "demonic_id": "6931",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "108.5",
+     "chapter_number": 108.5
+    },
+    {
+     "name": "41.5",
+     "chapter_number": 41.5
+    }
+   ]
+  }
+ },
+ {
   "title": "Ultraman Tiga",
   "cover": "https://readermc.org/images/thumbnails/Ultraman Tiga.webp",
   "status": "Ongoing",
@@ -2041,7 +2085,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/unrivaled-spear-demon"
   },
-  "max_chapter": 47,
+  "max_chapter": 48,
   "demonic_id": "13298",
   "chapters": {
    "Demonic Scans": []

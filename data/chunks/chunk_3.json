@@ -10239,10 +10239,18 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/godzilla-galaxy-odyssey"
   },
-  "max_chapter": 20,
+  "max_chapter": 21,
   "demonic_id": "13348",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "20.1",
+     "chapter_number": 20.1
+    },
+    {
+     "name": "19.1",
+     "chapter_number": 19.1
+    },
     {
      "name": "18.1",
      "chapter_number": 18.1

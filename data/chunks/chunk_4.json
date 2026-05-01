@@ -3699,7 +3699,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/human-natural-enemy"
   },
-  "max_chapter": 33,
+  "max_chapter": 34,
   "demonic_id": "13372",
   "chapters": {
    "Demonic Scans": []
@@ -4810,7 +4810,7 @@
    "Thunder Scans": "https://en-thunderscans.com/comics/i-am-the-5-year-old-spy-who-kidnapped-the-villain/",
    "Violet Scans": "https://violetscans.org/comics/i-am-the-5-year-old-spy-who-kidnapped-the-villain/"
   },
-  "max_chapter": 22,
+  "max_chapter": 23,
   "chapters": {
    "Thunder Scans": [],
    "Violet Scans": []
@@ -5874,7 +5874,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/i-became-a-wretched-extra-in-a-healing-story/"
   },
-  "max_chapter": 57,
+  "max_chapter": 58,
   "chapters": {
    "Violet Scans": []
   }
@@ -6665,7 +6665,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/i-became-the-male-leads-adopted-daughter/"
   },
-  "max_chapter": 161,
+  "max_chapter": 162,
   "chapters": {
    "Violet Scans": [
     {
@@ -7288,6 +7288,18 @@
   },
   "max_chapter": 7,
   "chapter_count": null
+ },
+ {
+  "title": "I Became the Supreme Martial God Through Dream Reincarnation",
+  "cover": "https://en-thunderscans.com/wp-content/uploads/2026/04/2026-04-30-11-38-30-1777592310206-226x300.png",
+  "status": "Ongoing",
+  "sources": {
+   "Thunder Scans": "https://en-thunderscans.com/comics/i-became-the-supreme-martial-god-through-dream-reincarnation/"
+  },
+  "max_chapter": 1,
+  "chapters": {
+   "Thunder Scans": []
+  }
  },
  {
   "title": "I Became the Tyrant of a Defence Game",
@@ -14885,6 +14897,18 @@
   }
  },
  {
+  "title": "I Survive Through the Game by Controlling All Monster Intelligence",
+  "cover": "https://en-thunderscans.com/wp-content/uploads/2026/05/2026-05-01-12-10-24-1777637424718-225x300.jpeg",
+  "status": "Ongoing",
+  "sources": {
+   "Thunder Scans": "https://en-thunderscans.com/comics/i-survive-through-the-game-by-controlling-all-monster-intelligence/"
+  },
+  "max_chapter": 15,
+  "chapters": {
+   "Thunder Scans": []
+  }
+ },
+ {
   "title": "I swallowed the heavenly demon",
   "cover": "https://readermc.org/images/thumbnails/I swallowed the heavenly demon.webp",
   "status": "Ongoing",
@@ -15067,7 +15091,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/i-thought-it-was-the-ending-but-when-i-came-back-the-genre-had-changed/"
   },
-  "max_chapter": 29,
+  "max_chapter": 30,
   "chapters": {
    "Violet Scans": []
   }
@@ -24400,7 +24424,7 @@
    "Asura Scans": "https://asurascans.com/comics/im-gonna-annihilate-this-land",
    "Demonic Scans": "https://demonicscans.org/manga/i%2527m-gonna-annihilate-this-land"
   },
-  "max_chapter": 73,
+  "max_chapter": 74,
   "chapter_count": 73,
   "chapters": {
    "Asura Scans": [],
@@ -24902,7 +24926,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/im-ready-for-divorce/"
   },
-  "max_chapter": 55,
+  "max_chapter": 56,
   "chapters": {
    "Violet Scans": [
     {
@@ -33379,42 +33403,6 @@
   "demonic_id": "12623",
   "chapters": {
    "Demonic Scans": []
-  }
- },
- {
-  "title": "Invincible Starts with a Severed Hand",
-  "cover": "https://readermc.org/images/thumbnails/Invincible Starts with a Severed Hand.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/invincible-starts-with-a-severed-hand"
-  },
-  "max_chapter": 6,
-  "demonic_id": "12829",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "0",
-     "chapter_number": 0
-    }
-   ]
-  }
- },
- {
-  "title": "Invincible Sword Domain",
-  "cover": "https://readermc.org/images/thumbnails/Invincible Sword Domain.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/invincible-sword-domain"
-  },
-  "max_chapter": 111,
-  "demonic_id": "10803",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "0",
-     "chapter_number": 0
-    }
-   ]
   }
  }
 ]

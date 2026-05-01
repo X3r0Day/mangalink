@@ -1,5 +1,51 @@
 [
  {
+  "title": "The God of High School",
+  "cover": "https://readermc.org/images/thumbnails/The God of High School.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/the-god-of-high-school"
+  },
+  "max_chapter": 571,
+  "demonic_id": "103",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "307.5",
+     "chapter_number": 307.5
+    },
+    {
+     "name": "203.5",
+     "chapter_number": 203.5
+    },
+    {
+     "name": "71.1",
+     "chapter_number": 71.1
+    },
+    {
+     "name": "0",
+     "chapter_number": 0
+    }
+   ]
+  }
+ },
+ {
+  "title": "The God of Pro Wrestling",
+  "cover": "https://cdn.asurascans.com/asura-images/covers/the-god-of-pro-wrestling.bfe30d.webp",
+  "status": "Dropped",
+  "sources": {
+   "Asura Scans": "https://asurascans.com/comics/the-god-of-pro-wrestling",
+   "Demonic Scans": "https://demonicscans.org/manga/the-god-of-pro-wrestling"
+  },
+  "max_chapter": 66,
+  "chapter_count": 42,
+  "chapters": {
+   "Asura Scans": [],
+   "Demonic Scans": []
+  },
+  "demonic_id": "349"
+ },
+ {
   "title": "The God of War is Leveling Up",
   "cover": "https://readermc.org/images/thumbnails/The God of War is Leveling Up.webp",
   "status": "Ongoing",
@@ -636,7 +682,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-god%2527s-contract-in-the-virtual-world"
   },
-  "max_chapter": 27,
+  "max_chapter": 28,
   "demonic_id": "13507",
   "chapters": {
    "Demonic Scans": [
@@ -4126,7 +4172,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-heroic-tale-of-shura-young-girl%253a-a-mercenary-who-was-said-to-be-half%25252dbaked-is-reincarnated-as-a-young-girl-and-rises-to-success"
   },
-  "max_chapter": 11,
+  "max_chapter": 12,
   "demonic_id": "13273",
   "chapters": {
    "Demonic Scans": []
@@ -5450,7 +5496,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-king-of-beasts/"
   },
-  "max_chapter": 50,
+  "max_chapter": 51,
   "chapters": {
    "Thunder Scans": [
     {
@@ -8116,7 +8162,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-legendary-assassin-reincarnated-as-the-beloved-youngest-daughter-of-a-royal-family/"
   },
-  "max_chapter": 97,
+  "max_chapter": 98,
   "chapters": {
    "Violet Scans": []
   }
@@ -9057,7 +9103,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-maid-kills-her-master-again-today/"
   },
-  "max_chapter": 23,
+  "max_chapter": 24,
   "chapters": {
    "Violet Scans": []
   }
@@ -9890,7 +9936,7 @@
   "sources": {
    "Asura Scans": "https://asurascans.com/comics/the-max-level-hero-has-returned"
   },
-  "max_chapter": 231,
+  "max_chapter": 232,
   "chapter_count": 231,
   "chapters": {
    "Asura Scans": []
@@ -10920,7 +10966,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-most-poweful-characters-in-the-world-are-crazy-about-me/"
   },
-  "max_chapter": 160,
+  "max_chapter": 161,
   "chapters": {
    "Violet Scans": []
   }
@@ -12800,7 +12846,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-omniscient-trapmaster/"
   },
-  "max_chapter": 35,
+  "max_chapter": 36,
   "chapters": {
    "Thunder Scans": []
   }
@@ -14445,7 +14491,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-player-of-a-fallen-prestigious-family"
   },
-  "max_chapter": 42,
+  "max_chapter": 43,
   "demonic_id": "13557",
   "chapters": {
    "Demonic Scans": []
@@ -18153,7 +18199,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-reversal-of-my-life-as-a-side-character",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-reversal-of-my-life-as-a-side-character/"
   },
-  "max_chapter": 74,
+  "max_chapter": 75,
   "demonic_id": "12575",
   "chapters": {
    "Demonic Scans": [],
@@ -19946,7 +19992,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-second-eunuch-regains-his-manhood",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-second-eunuch-regains-his-manhood/"
   },
-  "max_chapter": 83,
+  "max_chapter": 86,
   "demonic_id": "12608",
   "chapters": {
    "Demonic Scans": [],
@@ -23398,7 +23444,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-sword-forging-great-hero-the-scrap-favored-by-the-gods/"
   },
-  "max_chapter": 27,
+  "max_chapter": 28,
   "chapters": {
    "Thunder Scans": []
   }
@@ -24016,7 +24062,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-terminally-ill-villain-supports-my-broken-engagement/"
   },
-  "max_chapter": 66,
+  "max_chapter": 67,
   "chapters": {
    "Violet Scans": []
   }
@@ -25688,7 +25734,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-villains-match-is-too-perfect/"
   },
-  "max_chapter": 124,
+  "max_chapter": 125,
   "chapters": {
    "Violet Scans": []
   }
@@ -27910,7 +27956,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-wolf-that-picked-something-up"
   },
-  "max_chapter": 159,
+  "max_chapter": 160,
   "demonic_id": "12707",
   "chapters": {
    "Demonic Scans": [
@@ -42299,50 +42345,6 @@
   "demonic_id": "6929",
   "chapters": {
    "Demonic Scans": []
-  }
- },
- {
-  "title": "Ultra Maniac",
-  "cover": "https://readermc.org/images/thumbnails/Ultra Maniac.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/ultra-maniac"
-  },
-  "max_chapter": 25,
-  "demonic_id": "6930",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "20.1",
-     "chapter_number": 20.1
-    },
-    {
-     "name": "15.1",
-     "chapter_number": 15.1
-    }
-   ]
-  }
- },
- {
-  "title": "Ultraman",
-  "cover": "https://readermc.org/images/thumbnails/Ultraman.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/ultraman"
-  },
-  "max_chapter": 116,
-  "demonic_id": "6931",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "108.5",
-     "chapter_number": 108.5
-    },
-    {
-     "name": "41.5",
-     "chapter_number": 41.5
-    }
-   ]
   }
  }
 ]

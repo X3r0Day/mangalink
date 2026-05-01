@@ -1,5 +1,140 @@
 [
  {
+  "title": "Silent Kiss",
+  "cover": "https://readermc.org/images/thumbnails/Silent Kiss.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/silent-kiss"
+  },
+  "max_chapter": 8,
+  "demonic_id": "6585",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
+  "title": "Silent Witch Chinmoku no Majo no Kakushigoto",
+  "cover": "https://readermc.org/images/thumbnails/Silent Witch Chinmoku no Majo no Kakushigoto.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/silent-witch-chinmoku-no-majo-no-kakushigoto"
+  },
+  "max_chapter": 30,
+  "demonic_id": "1638",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "29.2",
+     "chapter_number": 29.2
+    },
+    {
+     "name": "29.1",
+     "chapter_number": 29.1
+    },
+    {
+     "name": "20.2",
+     "chapter_number": 20.2
+    },
+    {
+     "name": "20.1",
+     "chapter_number": 20.1
+    },
+    {
+     "name": "19.2",
+     "chapter_number": 19.2
+    },
+    {
+     "name": "19.1",
+     "chapter_number": 19.1
+    },
+    {
+     "name": "18.2",
+     "chapter_number": 18.2
+    },
+    {
+     "name": "18.1",
+     "chapter_number": 18.1
+    },
+    {
+     "name": "17.2",
+     "chapter_number": 17.2
+    },
+    {
+     "name": "17.1",
+     "chapter_number": 17.1
+    },
+    {
+     "name": "16.2",
+     "chapter_number": 16.2
+    },
+    {
+     "name": "16.1",
+     "chapter_number": 16.1
+    },
+    {
+     "name": "14.2",
+     "chapter_number": 14.2
+    },
+    {
+     "name": "14.1",
+     "chapter_number": 14.1
+    },
+    {
+     "name": "13.5",
+     "chapter_number": 13.5
+    },
+    {
+     "name": "8.5",
+     "chapter_number": 8.5
+    },
+    {
+     "name": "5.2",
+     "chapter_number": 5.2
+    },
+    {
+     "name": "5.1",
+     "chapter_number": 5.1
+    },
+    {
+     "name": "4.3",
+     "chapter_number": 4.3
+    },
+    {
+     "name": "4.2",
+     "chapter_number": 4.2
+    },
+    {
+     "name": "4.1",
+     "chapter_number": 4.1
+    },
+    {
+     "name": "3.2",
+     "chapter_number": 3.2
+    },
+    {
+     "name": "3.1",
+     "chapter_number": 3.1
+    },
+    {
+     "name": "2.2",
+     "chapter_number": 2.2
+    },
+    {
+     "name": "2.1",
+     "chapter_number": 2.1
+    },
+    {
+     "name": "1.2",
+     "chapter_number": 1.2
+    },
+    {
+     "name": "0",
+     "chapter_number": 0
+    }
+   ]
+  }
+ },
+ {
   "title": "Silver",
   "cover": "https://readermc.org/images/thumbnails/Silver.webp",
   "status": "Ongoing",
@@ -3296,7 +3431,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/solo-farming-in-the-tower",
    "Thunder Scans": "https://en-thunderscans.com/comics/solo-farming-in-the-tower/"
   },
-  "max_chapter": 123,
+  "max_chapter": 124,
   "chapter_count": 123,
   "chapters": {
    "Asura Scans": [
@@ -30851,7 +30986,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-3rd-prince-of-the-fallen-kingdom-returns/"
   },
-  "max_chapter": 67,
+  "max_chapter": 68,
   "chapters": {
    "Thunder Scans": []
   }
@@ -31061,9 +31196,13 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-abandoned-talented-woman-decides-to-live-a-relaxed-life-with-her-family/"
   },
-  "max_chapter": 8.2,
+  "max_chapter": 8.3,
   "chapters": {
    "Violet Scans": [
+    {
+     "name": "8.1",
+     "chapter_slug": "the-abandoned-talented-woman-decides-to-live-a-relaxed-life-with-her-family-chapter-8-1"
+    },
     {
      "name": "7.4",
      "chapter_slug": "the-abandoned-talented-woman-decides-to-live-a-relaxed-life-with-her-family-chapter-7-4"
@@ -31429,7 +31568,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-almighty-trap-master"
   },
-  "max_chapter": 34,
+  "max_chapter": 35,
   "demonic_id": "13623",
   "chapters": {
    "Demonic Scans": []
@@ -35107,7 +35246,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-black%25252dhaired-u.s.-army-general",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-black-haired-us-army-general/"
   },
-  "max_chapter": 30,
+  "max_chapter": 31,
   "demonic_id": "13668",
   "chapters": {
    "Demonic Scans": [],
@@ -37044,7 +37183,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-clans-failure-is-a-former-continental-champion/"
   },
-  "max_chapter": 37,
+  "max_chapter": 38,
   "chapters": {
    "Thunder Scans": []
   }
@@ -39308,7 +39447,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-devil%2527s-advocate%253a-hell%2527s-ruthless-prosecutor",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-devils-advocate-hells-ruthless-prosecutor/"
   },
-  "max_chapter": 24,
+  "max_chapter": 25,
   "demonic_id": "13673",
   "chapters": {
    "Demonic Scans": [],
@@ -44076,7 +44215,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-genius-blacksmiths-game/"
   },
-  "max_chapter": 51,
+  "max_chapter": 52,
   "chapters": {
    "Thunder Scans": []
   }
@@ -44101,7 +44240,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-genius-healer-starts-over/"
   },
-  "max_chapter": 22,
+  "max_chapter": 23,
   "chapters": {
    "Thunder Scans": []
   }
@@ -44316,51 +44455,5 @@
   "chapters": {
    "Demonic Scans": []
   }
- },
- {
-  "title": "The God of High School",
-  "cover": "https://readermc.org/images/thumbnails/The God of High School.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/the-god-of-high-school"
-  },
-  "max_chapter": 571,
-  "demonic_id": "103",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "307.5",
-     "chapter_number": 307.5
-    },
-    {
-     "name": "203.5",
-     "chapter_number": 203.5
-    },
-    {
-     "name": "71.1",
-     "chapter_number": 71.1
-    },
-    {
-     "name": "0",
-     "chapter_number": 0
-    }
-   ]
-  }
- },
- {
-  "title": "The God of Pro Wrestling",
-  "cover": "https://cdn.asurascans.com/asura-images/covers/the-god-of-pro-wrestling.bfe30d.webp",
-  "status": "Dropped",
-  "sources": {
-   "Asura Scans": "https://asurascans.com/comics/the-god-of-pro-wrestling",
-   "Demonic Scans": "https://demonicscans.org/manga/the-god-of-pro-wrestling"
-  },
-  "max_chapter": 66,
-  "chapter_count": 42,
-  "chapters": {
-   "Asura Scans": [],
-   "Demonic Scans": []
-  },
-  "demonic_id": "349"
  }
 ]
