@@ -18509,10 +18509,18 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/i-was-reincarnated-as-the-villainess-in-an-otome-game-but-the-boys-love-me-anyway"
   },
-  "max_chapter": 37.1,
+  "max_chapter": 38.1,
   "demonic_id": "1447",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "38.1",
+     "chapter_number": 38.1
+    },
+    {
+     "name": "37.2",
+     "chapter_number": 37.2
+    },
     {
      "name": "37.1",
      "chapter_number": 37.1
@@ -19562,7 +19570,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/i-went-from-the-strongest-job%252c-dragon-knight%252c-to-a-beginner-level-job%252c-carrier%252c-yet-for-some-reason-the-heroes-rely-on-me"
   },
-  "max_chapter": 61,
+  "max_chapter": 64,
   "demonic_id": "882",
   "chapters": {
    "Demonic Scans": [

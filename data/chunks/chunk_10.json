@@ -3278,7 +3278,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/returning-student"
   },
-  "max_chapter": 48,
+  "max_chapter": 49,
   "demonic_id": "13449",
   "chapters": {
    "Demonic Scans": []
@@ -12229,7 +12229,7 @@
   "sources": {
    "Asura Scans": "https://asurascans.com/comics/sandmancer-of-the-scorched-desert"
   },
-  "max_chapter": 1,
+  "max_chapter": 20,
   "chapter_count": 1,
   "chapters": {
    "Asura Scans": []

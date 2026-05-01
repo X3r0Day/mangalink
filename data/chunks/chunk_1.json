@@ -3133,7 +3133,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/black-clover"
   },
-  "max_chapter": 389,
+  "max_chapter": 392,
   "demonic_id": "74",
   "chapters": {
    "Demonic Scans": [
@@ -5103,10 +5103,14 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/blue-lock"
   },
-  "max_chapter": 346.7,
+  "max_chapter": 346.9,
   "demonic_id": "181",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "346.9",
+     "chapter_number": 346.9
+    },
     {
      "name": "346.7",
      "chapter_number": 346.7
@@ -24067,7 +24071,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/dear-anonymous-sponsor"
   },
-  "max_chapter": 45,
+  "max_chapter": 50,
   "demonic_id": "904",
   "chapters": {
    "Demonic Scans": [
