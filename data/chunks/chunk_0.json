@@ -3338,7 +3338,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/a-glimpse-of-the-jianghu"
   },
-  "max_chapter": 12,
+  "max_chapter": 13,
   "demonic_id": "13604",
   "chapters": {
    "Demonic Scans": [
@@ -11118,7 +11118,7 @@
    "Asura Scans": "https://asurascans.com/comics/academys-undercover-professor",
    "Demonic Scans": "https://demonicscans.org/manga/academy%2527s-undercover-professor"
   },
-  "max_chapter": 165,
+  "max_chapter": 166,
   "chapter_count": 165,
   "chapters": {
    "Asura Scans": [],
