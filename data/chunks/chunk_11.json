@@ -13399,10 +13399,14 @@
    "Flame Comics": "https://flamecomics.xyz/series/131"
   },
   "flame_series_id": 131,
-  "max_chapter": 121,
+  "max_chapter": 122,
   "chapter_count": 121,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "120",
+     "chapter_slug": "932328e3c4818935"
+    },
     {
      "name": "119",
      "chapter_slug": "c6bf22ec713098e7"
@@ -19497,7 +19501,7 @@
  {
   "title": "Surviving as a Servant in the Sichuan Tang Clan",
   "cover": "https://violetscans.org/wp-content/uploads/2025/11/2025-11-15-01-46-31-1763214391660-210x300.jpg",
-  "status": "Ongoing",
+  "status": "Hiatus",
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/surviving-as-a-servant-in-the-sichuan-tang-clan/"
   },
@@ -19562,7 +19566,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/surviving-as-yeonsanguns-chef/"
   },
-  "max_chapter": 27,
+  "max_chapter": 31,
   "chapters": {
    "Violet Scans": []
   }
@@ -38302,7 +38306,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-cursed-blade-in-a-magic%25e2%2580%2591ruled-world-a-samurai-reborn-in-a-magic%25e2%2580%2591supremacist-isekai-dominates-with-the-scorned-art-of-the-swor"
   },
-  "max_chapter": 11,
+  "max_chapter": 12,
   "demonic_id": "13669",
   "chapters": {
    "Demonic Scans": []

@@ -7281,7 +7281,7 @@
  },
  "children of the rune": {
   "status": "Dropped",
-  "max_chapter": 59,
+  "max_chapter": 60,
   "chapter_count": 57
  },
  "chimoguri ringo to kingyobachi otoko": {
@@ -21726,7 +21726,7 @@
  },
  "i dont need your love": {
   "status": "Ongoing",
-  "max_chapter": 14,
+  "max_chapter": 19,
   "chapter_count": null
  },
  "i dont really get it but it looks like i was reincarnated in an another world": {
@@ -34196,7 +34196,7 @@
  },
  "love starts with parenting": {
   "status": "Ongoing",
-  "max_chapter": 14,
+  "max_chapter": 15,
   "chapter_count": null
  },
  "love story not": {
@@ -56306,7 +56306,7 @@
  },
  "starfostered swordmaster": {
   "status": "Ongoing",
-  "max_chapter": 121,
+  "max_chapter": 122,
   "chapter_count": 121
  },
  "starslaying swordsman": {
@@ -57600,7 +57600,7 @@
   "chapter_count": null
  },
  "surviving as a servant in the sichuan tang clan": {
-  "status": "Ongoing",
+  "status": "Hiatus",
   "max_chapter": 42,
   "chapter_count": null
  },
@@ -57611,7 +57611,7 @@
  },
  "surviving as yeonsanguns chef": {
   "status": "Ongoing",
-  "max_chapter": 27,
+  "max_chapter": 31,
   "chapter_count": null
  },
  "surviving in a romance fantasy novel": {
@@ -58906,7 +58906,7 @@
  },
  "the cursed blade in a magicruled world a samurai reborn in a magicsupremacist isekai dominates with the scorned art of the swor": {
   "status": "Ongoing",
-  "max_chapter": 11,
+  "max_chapter": 12,
   "chapter_count": null
  },
  "the cursed fighter": {
@@ -75049,7 +75049,7 @@
   "status": "Ongoing"
  },
  "children-of-the-rune": {
-  "max_chapter": 59,
+  "max_chapter": 60,
   "status": "Dropped"
  },
  "chimoguri-ringo-to-kingyobachi-otoko": {
@@ -85417,7 +85417,7 @@
   "status": "Ongoing"
  },
  "i-dont-need-your-love": {
-  "max_chapter": 14,
+  "max_chapter": 19,
   "status": "Ongoing"
  },
  "i-don%2527t-really-get-it%252c-but-it-looks-like-i-was-reincarnated-in-an-another-world": {
@@ -94501,7 +94501,7 @@
   "status": "Ongoing"
  },
  "love-starts-with-parenting": {
-  "max_chapter": 14,
+  "max_chapter": 15,
   "status": "Ongoing"
  },
  "love-story%252c-not%2521": {
@@ -111198,14 +111198,14 @@
  },
  "surviving-as-a-servant-in-the-sichuan-tang-clan": {
   "max_chapter": 42,
-  "status": "Ongoing"
+  "status": "Hiatus"
  },
  "surviving-as-an-illegitimate-princess": {
   "max_chapter": 106,
   "status": "Ongoing"
  },
  "surviving-as-yeonsanguns-chef": {
-  "max_chapter": 27,
+  "max_chapter": 31,
   "status": "Ongoing"
  },
  "surviving-in-a-romance-fantasy-novel": {
@@ -112205,7 +112205,7 @@
   "status": "Ongoing"
  },
  "the-cursed-blade-in-a-magic%25e2%2580%2591ruled-world-a-samurai-reborn-in-a-magic%25e2%2580%2591supremacist-isekai-dominates-with-the-scorned-art-of-the-swor": {
-  "max_chapter": 11,
+  "max_chapter": 12,
   "status": "Ongoing"
  },
  "the-cursed-fighter": {
