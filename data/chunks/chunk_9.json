@@ -3059,7 +3059,7 @@
    "Asura Scans": "https://asurascans.com/comics/overgeared",
    "Demonic Scans": "https://demonicscans.org/manga/overgeared"
   },
-  "max_chapter": 320,
+  "max_chapter": 321,
   "chapter_count": 320,
   "chapters": {
    "Asura Scans": [
@@ -19516,7 +19516,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/ranger-reject"
   },
-  "max_chapter": 213,
+  "max_chapter": 214,
   "demonic_id": "775",
   "chapters": {
    "Demonic Scans": []

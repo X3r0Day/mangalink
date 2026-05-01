@@ -2646,7 +2646,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/return-of-the-runebound-professor"
   },
-  "max_chapter": 70,
+  "max_chapter": 71,
   "demonic_id": "12615",
   "chapters": {
    "Demonic Scans": []
@@ -10092,10 +10092,14 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/saikyou-onmyouji-no-isekai-tenseiki-%257egeboku-no-youkaidomo-ni-kurabete-monster-ga-yowaisugirundaga%257e"
   },
-  "max_chapter": 51.1,
+  "max_chapter": 51.2,
   "demonic_id": "11440",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "51.2",
+     "chapter_number": 51.2
+    },
     {
      "name": "51.1",
      "chapter_number": 51.1
@@ -28672,7 +28676,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/shut-up%252c-evil-dragon%2521-i-don%2527t-want-to-raise-a-child-with-you-anymore"
   },
-  "max_chapter": 90,
+  "max_chapter": 91,
   "demonic_id": "12581",
   "chapters": {
    "Demonic Scans": []
