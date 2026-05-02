@@ -3574,10 +3574,14 @@
    "Flame Comics": "https://flamecomics.xyz/series/160"
   },
   "flame_series_id": 160,
-  "max_chapter": 30,
+  "max_chapter": 31,
   "chapter_count": 30,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "30",
+     "chapter_slug": "2563bbb925db5b0c"
+    },
     {
      "name": "29",
      "chapter_slug": "0155e174631c4a5f"

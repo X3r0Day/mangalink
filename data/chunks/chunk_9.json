@@ -12459,7 +12459,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/primordial-ten-fiends%253a-others-tame-beasts%252c-i-tame-beast-girls"
   },
-  "max_chapter": 155,
+  "max_chapter": 157,
   "demonic_id": "13285",
   "chapters": {
    "Demonic Scans": []
@@ -19624,7 +19624,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/ranker-game-%257ebasketball-show%257e"
   },
-  "max_chapter": 44,
+  "max_chapter": 45,
   "demonic_id": "13398",
   "chapters": {
    "Demonic Scans": []
@@ -21358,10 +21358,14 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/reality-quest"
   },
-  "max_chapter": 202,
+  "max_chapter": 202.5,
   "demonic_id": "12102",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "202.5",
+     "chapter_number": 202.5
+    },
     {
      "name": "165.7",
      "chapter_number": 165.7

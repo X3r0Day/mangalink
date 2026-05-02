@@ -10125,10 +10125,18 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-mercenary-group%2527s-beloved-child%253a-the-orphan-on-the-brink-of-death-is-raised-by-the-mightiest-masters"
   },
-  "max_chapter": 11,
+  "max_chapter": 12.2,
   "demonic_id": "13512",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "12.2",
+     "chapter_number": 12.2
+    },
+    {
+     "name": "12.1",
+     "chapter_number": 12.1
+    },
     {
      "name": "9.2",
      "chapter_number": 9.2

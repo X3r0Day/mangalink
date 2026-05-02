@@ -7232,7 +7232,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/martial-evolution%253a-start-by-awakening-the-king-of-monsters"
   },
-  "max_chapter": 125,
+  "max_chapter": 126,
   "demonic_id": "13175",
   "chapters": {
    "Demonic Scans": []
@@ -19799,10 +19799,42 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/mofumofu-to-isekai-bouken-meshi"
   },
-  "max_chapter": 10,
+  "max_chapter": 17.2,
   "demonic_id": "12848",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "17.2",
+     "chapter_number": 17.2
+    },
+    {
+     "name": "17.1",
+     "chapter_number": 17.1
+    },
+    {
+     "name": "16.1",
+     "chapter_number": 16.1
+    },
+    {
+     "name": "15.2",
+     "chapter_number": 15.2
+    },
+    {
+     "name": "15.1",
+     "chapter_number": 15.1
+    },
+    {
+     "name": "13.1",
+     "chapter_number": 13.1
+    },
+    {
+     "name": "12.1",
+     "chapter_number": 12.1
+    },
+    {
+     "name": "11.1",
+     "chapter_number": 11.1
+    },
     {
      "name": "7.2",
      "chapter_number": 7.2
