@@ -3646,7 +3646,7 @@
  },
  "artifactdevouring player": {
   "status": "Ongoing",
-  "max_chapter": 37,
+  "max_chapter": 38,
   "chapter_count": 35
  },
  "artifacting appraiser": {
@@ -9881,7 +9881,7 @@
  },
  "demonic emperor": {
   "status": "Ongoing",
-  "max_chapter": 849,
+  "max_chapter": 850,
   "chapter_count": null
  },
  "demonic evolution": {
@@ -50146,7 +50146,7 @@
  },
  "reset life of regression police": {
   "status": "Ongoing",
-  "max_chapter": 155,
+  "max_chapter": 156,
   "chapter_count": null
  },
  "resetting lady": {
@@ -56236,7 +56236,7 @@
  },
  "standard of reincarnation": {
   "status": "Ongoing",
-  "max_chapter": 178,
+  "max_chapter": 179,
   "chapter_count": 177
  },
  "star children": {
@@ -60311,7 +60311,7 @@
  },
  "the heavenly demon cant live a normal life": {
   "status": "Ongoing",
-  "max_chapter": 197,
+  "max_chapter": 198,
   "chapter_count": 197
  },
  "the heavenly demon destroys the lich kings murim": {
@@ -61691,7 +61691,7 @@
  },
  "the player hides his past": {
   "status": "Ongoing",
-  "max_chapter": 118,
+  "max_chapter": 119,
   "chapter_count": 118
  },
  "the player of a fallen prestigious family": {
@@ -72531,7 +72531,7 @@
   "status": "Ongoing"
  },
  "artifact%25252ddevouring-player": {
-  "max_chapter": 37,
+  "max_chapter": 38,
   "status": "Ongoing"
  },
  "artifacting-appraiser": {
@@ -76883,7 +76883,7 @@
   "status": "Ongoing"
  },
  "demonic-emperor": {
-  "max_chapter": 849,
+  "max_chapter": 850,
   "status": "Ongoing"
  },
  "demonic-evolution": {
@@ -105803,7 +105803,7 @@
   "status": "Ongoing"
  },
  "reset-life-of-regression-police": {
-  "max_chapter": 155,
+  "max_chapter": 156,
   "status": "Ongoing"
  },
  "resetting-lady": {
@@ -110199,7 +110199,7 @@
   "status": "Ongoing"
  },
  "standard-of-reincarnation": {
-  "max_chapter": 178,
+  "max_chapter": 179,
   "status": "Ongoing"
  },
  "star-children": {
@@ -113279,7 +113279,7 @@
   "status": "Ongoing"
  },
  "the-heavenly-demon-can%2527t-live-a-normal-life": {
-  "max_chapter": 197,
+  "max_chapter": 198,
   "status": "Ongoing"
  },
  "the-heavenly-demon-destroys-the-lich-king%2527s-murim": {
@@ -114335,7 +114335,7 @@
   "status": "Ongoing"
  },
  "the-player-hides-his-past": {
-  "max_chapter": 118,
+  "max_chapter": 119,
   "status": "Ongoing"
  },
  "the-player-of-a-fallen-prestigious-family": {
