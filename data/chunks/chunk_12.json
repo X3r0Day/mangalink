@@ -17844,7 +17844,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-return-of-the-corpse-king"
   },
-  "max_chapter": 10,
+  "max_chapter": 11,
   "demonic_id": "13099",
   "chapters": {
    "Demonic Scans": [
@@ -20210,7 +20210,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-secret-of-the-partner-next-to-you"
   },
-  "max_chapter": 132,
+  "max_chapter": 133,
   "demonic_id": "13168",
   "chapters": {
    "Demonic Scans": []
@@ -24075,7 +24075,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-third-prince-of-the-fallen-kingdom-has-regressed",
    "Flame Comics": "https://flamecomics.xyz/series/157"
   },
-  "max_chapter": 68,
+  "max_chapter": 69,
   "demonic_id": "13304",
   "chapters": {
    "Demonic Scans": [
@@ -24085,6 +24085,10 @@
     }
    ],
    "Flame Comics": [
+    {
+     "name": "68",
+     "chapter_slug": "0ca6cca4f0e9d4b4"
+    },
     {
      "name": "67",
      "chapter_slug": "e9b4b31cebbb2299"
@@ -37869,7 +37873,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/toaru-ossan-no-vrmmo-katsudouki"
   },
-  "max_chapter": 105,
+  "max_chapter": 106,
   "demonic_id": "11065",
   "chapters": {
    "Demonic Scans": [

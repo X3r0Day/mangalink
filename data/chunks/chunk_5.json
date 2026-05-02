@@ -5872,10 +5872,14 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/it%2527s-sudden%252c-but-i-came-to-another-world%2521-but-i-hope-to-live-safely"
   },
-  "max_chapter": 34,
+  "max_chapter": 34.5,
   "demonic_id": "1218",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "34.5",
+     "chapter_number": 34.5
+    },
     {
      "name": "33.2",
      "chapter_number": 33.2
