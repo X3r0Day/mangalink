@@ -836,7 +836,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/under-the-oak-tree",
    "Violet Scans": "https://violetscans.org/comics/under-the-oak-tree/"
   },
-  "max_chapter": 148,
+  "max_chapter": 149,
   "demonic_id": "6973",
   "chapters": {
    "Demonic Scans": [
@@ -6510,7 +6510,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/violets-poisoned-words/"
   },
-  "max_chapter": 20,
+  "max_chapter": 21,
   "chapters": {
    "Violet Scans": []
   }
