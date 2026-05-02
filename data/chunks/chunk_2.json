@@ -18366,10 +18366,14 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/expressionless-kashiwada%25252dsan-and-emotional-oota%25252dkun"
   },
-  "max_chapter": 123,
+  "max_chapter": 125.5,
   "demonic_id": "11361",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "125.5",
+     "chapter_number": 125.5
+    },
     {
      "name": "111.5",
      "chapter_number": 111.5
@@ -26318,7 +26322,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/for-daphne/"
   },
-  "max_chapter": 38,
+  "max_chapter": 39,
   "chapters": {
    "Violet Scans": []
   }
