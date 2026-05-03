@@ -1,5 +1,23 @@
 [
  {
+  "title": "RenAiTan",
+  "cover": "https://readermc.org/images/thumbnails/RenAiTan.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/renaitan"
+  },
+  "max_chapter": 1.5,
+  "demonic_id": "5786",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "1.5",
+     "chapter_number": 1.5
+    }
+   ]
+  }
+ },
+ {
   "title": "Renchi na Himoto",
   "cover": "https://readermc.org/images/thumbnails/Renchi na Himoto.webp",
   "status": "Ongoing",
@@ -29001,24 +29019,6 @@
   "chapter_count": 23,
   "chapters": {
    "Asura Scans": []
-  }
- },
- {
-  "title": "Sidooh",
-  "cover": "https://readermc.org/images/thumbnails/Sidooh.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/sidooh"
-  },
-  "max_chapter": 266,
-  "demonic_id": "6603",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "0",
-     "chapter_number": 0
-    }
-   ]
   }
  }
 ]

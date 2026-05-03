@@ -1,5 +1,23 @@
 [
  {
+  "title": "Sidooh",
+  "cover": "https://readermc.org/images/thumbnails/Sidooh.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/sidooh"
+  },
+  "max_chapter": 266,
+  "demonic_id": "6603",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "0",
+     "chapter_number": 0
+    }
+   ]
+  }
+ },
+ {
   "title": "Silent Kiss",
   "cover": "https://readermc.org/images/thumbnails/Silent Kiss.webp",
   "status": "Ongoing",
@@ -12237,7 +12255,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/sss-grade-saint-knight"
   },
-  "max_chapter": 158,
+  "max_chapter": 161,
   "demonic_id": "12111",
   "chapters": {
    "Demonic Scans": []
@@ -15878,7 +15896,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/strength-through-adversity%252c-my-cultivation-knows-no-limits"
   },
-  "max_chapter": 120,
+  "max_chapter": 122,
   "demonic_id": "12791",
   "chapters": {
    "Demonic Scans": [
@@ -20973,7 +20991,7 @@
    "Asura Scans": "https://asurascans.com/comics/sword-devouring-swordmaster",
    "Demonic Scans": "https://demonicscans.org/manga/sword%25252ddevouring-swordmaster"
   },
-  "max_chapter": 25,
+  "max_chapter": 26,
   "chapter_count": 25,
   "chapters": {
    "Asura Scans": [],
@@ -36259,10 +36277,14 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-case-in-which-streaming-in-another-world-led-to-the-creation-of-a-massive-yandere-following"
   },
-  "max_chapter": 62.1,
+  "max_chapter": 62.2,
   "demonic_id": "12733",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "62.2",
+     "chapter_number": 62.2
+    },
     {
      "name": "62.1",
      "chapter_number": 62.1
@@ -44265,7 +44287,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-genius-mage-who-uses-his-fists"
   },
-  "max_chapter": 61,
+  "max_chapter": 62,
   "demonic_id": "13071",
   "chapters": {
    "Demonic Scans": []
@@ -44441,19 +44463,6 @@
      "chapter_number": 0
     }
    ]
-  }
- },
- {
-  "title": "The God of Ad-Libs",
-  "cover": "https://readermc.org/images/thumbnails/The God of Ad-Libs.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/the-god-of-ad%25252dlibs"
-  },
-  "max_chapter": 14,
-  "demonic_id": "13652",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

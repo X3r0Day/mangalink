@@ -1,5 +1,23 @@
 [
  {
+  "title": "Holy Night: The Zero",
+  "cover": "https://readermc.org/images/thumbnails/Holy Night  The Zero.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/holy-night%253a-the-zero"
+  },
+  "max_chapter": 50.5,
+  "demonic_id": "12663",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "50.5",
+     "chapter_number": 50.5
+    }
+   ]
+  }
+ },
+ {
   "title": "Holyland",
   "cover": "https://readermc.org/images/thumbnails/Holyland.webp",
   "status": "Ongoing",
@@ -6313,7 +6331,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/i-became-the-despised-granddaughter-of-the-murim-family"
   },
-  "max_chapter": 113,
+  "max_chapter": 114,
   "demonic_id": "12690",
   "chapters": {
    "Demonic Scans": []
@@ -19923,7 +19941,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/i-will-divorce-the-female-lead%2527s-siscon-brother"
   },
-  "max_chapter": 105,
+  "max_chapter": 106,
   "demonic_id": "12487",
   "chapters": {
    "Demonic Scans": []
@@ -21576,7 +21594,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/i%2527ll-be-the-matriarch-in-this-life",
    "Violet Scans": "https://violetscans.org/comics/ill-be-the-matriarch-in-this-life/"
   },
-  "max_chapter": 215,
+  "max_chapter": 216,
   "demonic_id": "836",
   "chapters": {
    "Demonic Scans": [
@@ -24187,7 +24205,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/i%255c%2527m-being-misunderstood-as-a-soccer-genius"
   },
-  "max_chapter": 62,
+  "max_chapter": 64,
   "demonic_id": "12915",
   "chapters": {
    "Demonic Scans": []
@@ -33388,19 +33406,6 @@
   },
   "max_chapter": 24,
   "demonic_id": "11918",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Invincible Martial Sage",
-  "cover": "https://readermc.org/images/thumbnails/Invincible Martial Sage.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/invincible-martial-sage"
-  },
-  "max_chapter": 136,
-  "demonic_id": "12623",
   "chapters": {
    "Demonic Scans": []
   }

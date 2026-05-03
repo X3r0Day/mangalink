@@ -1,5 +1,18 @@
 [
  {
+  "title": "Oshite Dame nara Oshite miro!",
+  "cover": "https://readermc.org/images/thumbnails/Oshite Dame nara Oshite miro!.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/oshite-dame-nara-oshite-miro%2521"
+  },
+  "max_chapter": 7,
+  "demonic_id": "5027",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Osomatsu-kun",
   "cover": "https://readermc.org/images/thumbnails/Osomatsu-kun.webp",
   "status": "Ongoing",
@@ -221,7 +234,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/ossan-yuusha-wa-kajiya-de-slow-life-hajimemashita"
   },
-  "max_chapter": 23,
+  "max_chapter": 24,
   "demonic_id": "12639",
   "chapters": {
    "Demonic Scans": []
@@ -12459,7 +12472,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/primordial-ten-fiends%253a-others-tame-beasts%252c-i-tame-beast-girls"
   },
-  "max_chapter": 157,
+  "max_chapter": 158,
   "demonic_id": "13285",
   "chapters": {
    "Demonic Scans": []
@@ -21223,7 +21236,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/real-man"
   },
-  "max_chapter": 247,
+  "max_chapter": 250,
   "demonic_id": "357",
   "chapters": {
    "Demonic Scans": [
@@ -28913,24 +28926,6 @@
   "demonic_id": "5785",
   "chapters": {
    "Demonic Scans": []
-  }
- },
- {
-  "title": "RenAiTan",
-  "cover": "https://readermc.org/images/thumbnails/RenAiTan.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/renaitan"
-  },
-  "max_chapter": 1.5,
-  "demonic_id": "5786",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "1.5",
-     "chapter_number": 1.5
-    }
-   ]
   }
  }
 ]

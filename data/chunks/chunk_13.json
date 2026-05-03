@@ -1,5 +1,18 @@
 [
  {
+  "title": "Ultra Heaven",
+  "cover": "https://readermc.org/images/thumbnails/Ultra Heaven.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/ultra-heaven"
+  },
+  "max_chapter": 3,
+  "demonic_id": "6929",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Ultra Maniac",
   "cover": "https://readermc.org/images/thumbnails/Ultra Maniac.webp",
   "status": "Ongoing",
@@ -1268,7 +1281,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/unemployed-gye-baeksun"
   },
-  "max_chapter": 227,
+  "max_chapter": 228,
   "demonic_id": "13240",
   "chapters": {
    "Demonic Scans": []
@@ -14169,7 +14182,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/world%2527s-greatest-senior-disciple"
   },
-  "max_chapter": 175,
+  "max_chapter": 176,
   "demonic_id": "11664",
   "chapters": {
    "Demonic Scans": [
@@ -14384,7 +14397,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/worthless-profession%253a-dragon-tamer"
   },
-  "max_chapter": 235,
+  "max_chapter": 238,
   "demonic_id": "12139",
   "chapters": {
    "Demonic Scans": []

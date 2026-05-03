@@ -1,5 +1,18 @@
 [
  {
+  "title": "MAGiCO( Magic soccer)",
+  "cover": "https://readermc.org/images/thumbnails/MAGiCO( Magic soccer).webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/magico%2528-magic-soccer%2529"
+  },
+  "max_chapter": 2,
+  "demonic_id": "2979",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Magma Taishi",
   "cover": "https://readermc.org/images/thumbnails/Magma Taishi.webp",
   "status": "Ongoing",
@@ -7232,7 +7245,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/martial-evolution%253a-start-by-awakening-the-king-of-monsters"
   },
-  "max_chapter": 126,
+  "max_chapter": 127,
   "demonic_id": "13175",
   "chapters": {
    "Demonic Scans": []
@@ -29833,32 +29846,6 @@
   "demonic_id": "3825",
   "chapters": {
    "Demonic Scans": []
-  }
- },
- {
-  "title": "My disciple has become the strongest human before I knew it, and I, a master with no talent, was mistakenly recognized as the strongest in the universe beyond that",
-  "cover": "https://readermc.org/images/thumbnails/My disciple has become the strongest human before I knew it, and I, a master with no talent, was mistakenly recognized as the strongest in the universe beyond that.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/my-disciple-has-become-the-strongest-human-before-i-knew-it%252c-and-i%252c-a-master-with-no-talent%252c-was-mistakenly-recognized-as-the-strongest-in-the-universe-beyond-that"
-  },
-  "max_chapter": 4,
-  "demonic_id": "3826",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "3.2",
-     "chapter_number": 3.2
-    },
-    {
-     "name": "3.1",
-     "chapter_number": 3.1
-    },
-    {
-     "name": "2.2",
-     "chapter_number": 2.2
-    }
-   ]
   }
  }
 ]

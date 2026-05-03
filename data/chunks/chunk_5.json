@@ -1,5 +1,18 @@
 [
  {
+  "title": "Invincible Martial Sage",
+  "cover": "https://readermc.org/images/thumbnails/Invincible Martial Sage.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/invincible-martial-sage"
+  },
+  "max_chapter": 136,
+  "demonic_id": "12623",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Invincible Starts with a Severed Hand",
   "cover": "https://readermc.org/images/thumbnails/Invincible Starts with a Severed Hand.webp",
   "status": "Ongoing",
@@ -1253,7 +1266,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/is-a-mother-in-her-30s-like-me-alright%253f"
   },
-  "max_chapter": 52.5,
+  "max_chapter": 53,
   "demonic_id": "11357",
   "chapters": {
    "Demonic Scans": [
@@ -7193,7 +7206,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/japan-summons"
   },
-  "max_chapter": 51,
+  "max_chapter": 52,
   "demonic_id": "12002",
   "chapters": {
    "Demonic Scans": []
@@ -17403,7 +17416,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/kanan%25252dsama-wa-akumade-choroi"
   },
-  "max_chapter": 178,
+  "max_chapter": 179,
   "demonic_id": "11469",
   "chapters": {
    "Demonic Scans": [
@@ -26337,7 +26350,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/king-of-beasts"
   },
-  "max_chapter": 49,
+  "max_chapter": 50,
   "demonic_id": "13375",
   "chapters": {
    "Demonic Scans": [
@@ -28519,19 +28532,6 @@
   },
   "max_chapter": 1,
   "demonic_id": "2538",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Kiss Hug",
-  "cover": "https://readermc.org/images/thumbnails/Kiss Hug.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/kiss-hug"
-  },
-  "max_chapter": 14,
-  "demonic_id": "2539",
   "chapters": {
    "Demonic Scans": []
   }

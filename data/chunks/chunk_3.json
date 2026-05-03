@@ -1,5 +1,27 @@
 [
  {
+  "title": "Gakuen Alice",
+  "cover": "https://readermc.org/images/thumbnails/Gakuen Alice.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/gakuen-alice"
+  },
+  "max_chapter": 180.2,
+  "demonic_id": "9666",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "180.2",
+     "chapter_number": 180.2
+    },
+    {
+     "name": "180.1",
+     "chapter_number": 180.1
+    }
+   ]
+  }
+ },
+ {
   "title": "Gakuen Babe",
   "cover": "https://readermc.org/images/thumbnails/Gakuen Babe.webp",
   "status": "Ongoing",
@@ -1107,7 +1129,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/gatekeeper-of-the-boundless-world"
   },
-  "max_chapter": 155,
+  "max_chapter": 156,
   "demonic_id": "12921",
   "chapters": {
    "Demonic Scans": []
@@ -26448,7 +26470,7 @@
    ],
    "Violet Scans": []
   },
-  "max_chapter": 76,
+  "max_chapter": 78,
   "chapter_count": null
  },
  {
@@ -29420,24 +29442,6 @@
     {
      "name": "0",
      "chapter_number": 0
-    }
-   ]
-  }
- },
- {
-  "title": "Holy Night: The Zero",
-  "cover": "https://readermc.org/images/thumbnails/Holy Night  The Zero.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/holy-night%253a-the-zero"
-  },
-  "max_chapter": 50.5,
-  "demonic_id": "12663",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "50.5",
-     "chapter_number": 50.5
     }
    ]
   }

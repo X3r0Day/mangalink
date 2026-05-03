@@ -1,5 +1,18 @@
 [
  {
+  "title": "The God of Ad-Libs",
+  "cover": "https://readermc.org/images/thumbnails/The God of Ad-Libs.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/the-god-of-ad%25252dlibs"
+  },
+  "max_chapter": 14,
+  "demonic_id": "13652",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "The God of High School",
   "cover": "https://readermc.org/images/thumbnails/The God of High School.webp",
   "status": "Ongoing",
@@ -875,7 +888,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-gray-mark"
   },
-  "max_chapter": 76,
+  "max_chapter": 78,
   "demonic_id": "12553",
   "chapters": {
    "Demonic Scans": [
@@ -20508,7 +20521,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-shaman%2527s-blade"
   },
-  "max_chapter": 93,
+  "max_chapter": 94,
   "demonic_id": "12467",
   "chapters": {
    "Demonic Scans": []
@@ -21953,7 +21966,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-strongest-devil-becomes-a-rookie"
   },
-  "max_chapter": 27,
+  "max_chapter": 28,
   "demonic_id": "11846",
   "chapters": {
    "Demonic Scans": []
@@ -37889,7 +37902,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/toaru-ossan-no-vrmmo-katsudouki"
   },
-  "max_chapter": 106,
+  "max_chapter": 107,
   "demonic_id": "11065",
   "chapters": {
    "Demonic Scans": [
@@ -39851,7 +39864,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/true-education"
   },
-  "max_chapter": 242,
+  "max_chapter": 243,
   "demonic_id": "1208",
   "chapters": {
    "Demonic Scans": [
@@ -42352,19 +42365,6 @@
      "chapter_number": 2.1
     }
    ]
-  }
- },
- {
-  "title": "Ultra Heaven",
-  "cover": "https://readermc.org/images/thumbnails/Ultra Heaven.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/ultra-heaven"
-  },
-  "max_chapter": 3,
-  "demonic_id": "6929",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

@@ -1,5 +1,18 @@
 [
  {
+  "title": "Kiss Hug",
+  "cover": "https://readermc.org/images/thumbnails/Kiss Hug.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/kiss-hug"
+  },
+  "max_chapter": 14,
+  "demonic_id": "2539",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Kiss in the Blue",
   "cover": "https://readermc.org/images/thumbnails/Kiss in the Blue.webp",
   "status": "Ongoing",
@@ -17573,7 +17586,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/life-as-the-grand-dukes-daughter-in-law-is-too-easy/"
   },
-  "max_chapter": 36,
+  "max_chapter": 37,
   "chapters": {
    "Violet Scans": []
   }
@@ -20492,7 +20505,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/lord-of-destiny-wheel"
   },
-  "max_chapter": 221,
+  "max_chapter": 227,
   "demonic_id": "12245",
   "chapters": {
    "Demonic Scans": []
@@ -26174,19 +26187,6 @@
      "chapter_number": 8.5
     }
    ]
-  }
- },
- {
-  "title": "MAGiCO( Magic soccer)",
-  "cover": "https://readermc.org/images/thumbnails/MAGiCO( Magic soccer).webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/magico%2528-magic-soccer%2529"
-  },
-  "max_chapter": 2,
-  "demonic_id": "2979",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

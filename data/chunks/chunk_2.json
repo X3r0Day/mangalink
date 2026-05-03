@@ -24406,10 +24406,23 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/fight-class-3"
   },
-  "max_chapter": 109,
+  "max_chapter": 111.4,
   "demonic_id": "1269",
   "chapters": {
-   "Demonic Scans": []
+   "Demonic Scans": [
+    {
+     "name": "111.4",
+     "chapter_number": 111.4
+    },
+    {
+     "name": "111.3",
+     "chapter_number": 111.3
+    },
+    {
+     "name": "111.2",
+     "chapter_number": 111.2
+    }
+   ]
   }
  },
  {
@@ -27309,6 +27322,18 @@
   }
  },
  {
+  "title": "From a Relative’s POV",
+  "cover": "https://violetscans.com/wp-content/uploads/2026/05/2026-05-03-02-15-05-1777817705078-231x300.jpeg",
+  "status": "Ongoing",
+  "sources": {
+   "Violet Scans": "https://violetscans.com/comics/from-a-relatives-pov/"
+  },
+  "max_chapter": null,
+  "chapters": {
+   "Violet Scans": []
+  }
+ },
+ {
   "title": "From a Sacrifice to the Strongest",
   "cover": "https://readermc.org/images/thumbnails/From a Sacrifice to the Strongest.webp",
   "status": "Ongoing",
@@ -28345,7 +28370,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/fukushuu-o-koinegau-saikyou-yuusha-wa%252c-yami-no-chikara-de-senmetsu-musou-suru"
   },
-  "max_chapter": 133.5,
+  "max_chapter": 134,
   "demonic_id": "254",
   "chapters": {
    "Demonic Scans": [
@@ -31295,28 +31320,6 @@
     {
      "name": "0",
      "chapter_number": 0
-    }
-   ]
-  }
- },
- {
-  "title": "Gakuen Alice",
-  "cover": "https://readermc.org/images/thumbnails/Gakuen Alice.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/gakuen-alice"
-  },
-  "max_chapter": 180.2,
-  "demonic_id": "9666",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "180.2",
-     "chapter_number": 180.2
-    },
-    {
-     "name": "180.1",
-     "chapter_number": 180.1
     }
    ]
   }
