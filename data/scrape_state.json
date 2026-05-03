@@ -14261,7 +14261,7 @@
  },
  "from a relatives pov": {
   "status": "Ongoing",
-  "max_chapter": null,
+  "max_chapter": 4,
   "chapter_count": null
  },
  "from a sacrifice to the strongest": {
@@ -47056,7 +47056,7 @@
  },
  "player who cant level up": {
   "status": "Ongoing",
-  "max_chapter": 225,
+  "max_chapter": 226,
   "chapter_count": 225
  },
  "player who returned 10000 years later": {
@@ -79984,7 +79984,7 @@
   "status": "Ongoing"
  },
  "from-a-relatives-pov": {
-  "max_chapter": null,
+  "max_chapter": 4,
   "status": "Ongoing"
  },
  "from-a-sacrifice-to-the-strongest": {
