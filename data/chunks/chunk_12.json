@@ -16466,10 +16466,18 @@
    "Flame Comics": "https://flamecomics.xyz/series/133"
   },
   "flame_series_id": 133,
-  "max_chapter": 122,
+  "max_chapter": 124,
   "chapter_count": 122,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "124",
+     "chapter_slug": "23f54ca4db9bb5d2"
+    },
+    {
+     "name": "123",
+     "chapter_slug": "854c2c84a14316f5"
+    },
     {
      "name": "122",
      "chapter_slug": "4b0d6a10bf9d3b2b"
