@@ -1,5 +1,35 @@
 [
  {
+  "title": "The Goal is Alimony",
+  "cover": "https://violetscans.org/wp-content/uploads/2025/02/2025-02-07-03-21-36-1738941696006-207x300.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Violet Scans": "https://violetscans.org/comics/the-goal-is-alimony/"
+  },
+  "max_chapter": 27,
+  "chapters": {
+   "Violet Scans": []
+  }
+ },
+ {
+  "title": "The Goblin And I",
+  "cover": "https://readermc.org/images/thumbnails/The Goblin And I.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/the-goblin-and-i"
+  },
+  "max_chapter": 0,
+  "demonic_id": "1496",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "0",
+     "chapter_number": 0
+    }
+   ]
+  }
+ },
+ {
   "title": "The God of Ad-Libs",
   "cover": "https://readermc.org/images/thumbnails/The God of Ad-Libs.webp",
   "status": "Ongoing",
@@ -2015,7 +2045,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-hated-black-mage-returns",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-hated-black-mage-returns/"
   },
-  "max_chapter": 66,
+  "max_chapter": 67,
   "demonic_id": "12397",
   "chapters": {
    "Demonic Scans": [],
@@ -4793,7 +4823,7 @@
    "Asura Scans": "https://asurascans.com/comics/the-indomitable-martial-king",
    "Demonic Scans": "https://demonicscans.org/manga/the-indomitable-martial-king"
   },
-  "max_chapter": 131,
+  "max_chapter": 132,
   "chapter_count": 130,
   "chapters": {
    "Asura Scans": [],
@@ -4980,7 +5010,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-iron-emperor/"
   },
-  "max_chapter": 45,
+  "max_chapter": 46,
   "chapters": {
    "Thunder Scans": []
   }
@@ -9962,7 +9992,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-max-leveled-hero-will-return%2521"
   },
-  "max_chapter": 232,
+  "max_chapter": 233,
   "demonic_id": "303",
   "chapters": {
    "Demonic Scans": [
@@ -12094,7 +12124,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-novel%2527s-extra-%2528remake%2529",
    "Flame Comics": "https://flamecomics.xyz/series/83"
   },
-  "max_chapter": 155,
+  "max_chapter": 156,
   "demonic_id": "11457",
   "chapters": {
    "Demonic Scans": [
@@ -12128,6 +12158,10 @@
     }
    ],
    "Flame Comics": [
+    {
+     "name": "156",
+     "chapter_slug": "510041d563205712"
+    },
     {
      "name": "155",
      "chapter_slug": "5b7874881c4aee1d"
@@ -15814,7 +15848,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-rebels-quack-doctor/"
   },
-  "max_chapter": 32,
+  "max_chapter": 33,
   "chapters": {
    "Violet Scans": []
   }
@@ -16411,7 +16445,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-regressed-princess-became-the-tyrants-personal-chef/"
   },
-  "max_chapter": 46,
+  "max_chapter": 47,
   "chapters": {
    "Violet Scans": []
   }
@@ -17489,7 +17523,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-reincarnation-of-the-forbidden-archmage",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-reincarnation-of-the-forbidden-archmage/"
   },
-  "max_chapter": 179,
+  "max_chapter": 180,
   "demonic_id": "11530",
   "chapters": {
    "Demonic Scans": [
@@ -18030,7 +18064,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-return-of-the-genius-magic-swordsman/"
   },
-  "max_chapter": 42,
+  "max_chapter": 43,
   "chapters": {
    "Thunder Scans": []
   }
@@ -18145,7 +18179,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-return-of-the-world-savior/"
   },
-  "max_chapter": 24,
+  "max_chapter": 25,
   "chapters": {
    "Thunder Scans": [
     {
@@ -18896,7 +18930,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-s-class-butler/"
   },
-  "max_chapter": 40,
+  "max_chapter": 41,
   "chapters": {
    "Thunder Scans": [
     {
@@ -19626,7 +19660,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-samurai-of-the-divine-shadow-dominates-at-the-academy",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-samurai-of-the-divine-shadow-dominates-at-the-academy/"
   },
-  "max_chapter": 25,
+  "max_chapter": 26,
   "demonic_id": "13605",
   "chapters": {
    "Demonic Scans": [],
@@ -20921,7 +20955,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-soot-covered-hero-saving-the-world-with-dark-heretical-skills/"
   },
-  "max_chapter": 51,
+  "max_chapter": 52,
   "chapters": {
    "Thunder Scans": []
   }
@@ -21082,7 +21116,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-spirit-suppressing-museum/"
   },
-  "max_chapter": 7,
+  "max_chapter": 9,
   "chapters": {
    "Thunder Scans": []
   }
@@ -23351,7 +23385,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-surviving-player-becomes-unstoppable-in-his-second-death-game/"
   },
-  "max_chapter": 41,
+  "max_chapter": 42,
   "chapters": {
    "Thunder Scans": []
   }
@@ -23392,7 +23426,7 @@
    "Thunder Scans": "https://en-thunderscans.com/comics/the-sword-emperor-who-surpasses-his-previous-life/",
    "Demonic Scans": "https://demonicscans.org/manga/the-sword-emperor-who-surpasses-his-previous-life"
   },
-  "max_chapter": 20,
+  "max_chapter": 21,
   "chapters": {
    "Thunder Scans": []
   },
@@ -23485,7 +23519,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-swordmaster-in-a-magic-supremacy-world/"
   },
-  "max_chapter": 14,
+  "max_chapter": 15,
   "chapters": {
    "Thunder Scans": []
   }
@@ -25054,7 +25088,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-ultimate-conqueror-of-the-catacombs/"
   },
-  "max_chapter": 27,
+  "max_chapter": 28,
   "chapters": {
    "Thunder Scans": []
   }
@@ -27256,7 +27290,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-weakest-job-becomes-the-strongest-in-the-world-with-past-life-knowledge/"
   },
-  "max_chapter": 19.1,
+  "max_chapter": 19.2,
   "chapters": {
    "Thunder Scans": [
     {
@@ -27760,7 +27794,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-white-tiger-clans-little-fluff/"
   },
-  "max_chapter": 1,
+  "max_chapter": 20,
   "chapters": {
    "Thunder Scans": []
   }
@@ -31785,7 +31819,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-world-class-extras-walkthrough-remake/"
   },
-  "max_chapter": 54,
+  "max_chapter": 55,
   "chapters": {
    "Thunder Scans": []
   }
@@ -32553,7 +32587,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-youngest-son-of-the-eunhae-merchant-group",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-youngest-son-of-the-eunhae-merchant-group/"
   },
-  "max_chapter": 56,
+  "max_chapter": 57,
   "chapter_count": 55,
   "chapters": {
    "Asura Scans": [],
@@ -38426,7 +38460,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/top-tier-providence%253a-secretly-cultivate-for-a-thousand-years",
    "Thunder Scans": "https://en-thunderscans.com/comics/top-tier-providence-secretly-cultivate-for-a-thousand-years/"
   },
-  "max_chapter": 259,
+  "max_chapter": 260,
   "demonic_id": "11339",
   "chapters": {
    "Demonic Scans": [
@@ -38808,7 +38842,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/trapped-in-a-crazy-world-as-an-extra",
    "Thunder Scans": "https://en-thunderscans.com/comics/trapped-in-a-crazy-world-as-an-extra/"
   },
-  "max_chapter": 57,
+  "max_chapter": 58,
   "demonic_id": "13194",
   "chapters": {
    "Demonic Scans": [],
@@ -42255,116 +42289,5 @@
    "Demonic Scans": []
   },
   "demonic_id": "6926"
- },
- {
-  "title": "Ultra Battle Satellite",
-  "cover": "https://readermc.org/images/thumbnails/Ultra Battle Satellite.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/ultra-battle-satellite"
-  },
-  "max_chapter": 9,
-  "demonic_id": "6927",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Ultra Cute",
-  "cover": "https://readermc.org/images/thumbnails/Ultra Cute.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/ultra-cute"
-  },
-  "max_chapter": 7.5,
-  "demonic_id": "6928",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "7.5",
-     "chapter_number": 7.5
-    },
-    {
-     "name": "7.4",
-     "chapter_number": 7.4
-    },
-    {
-     "name": "7.3",
-     "chapter_number": 7.3
-    },
-    {
-     "name": "7.2",
-     "chapter_number": 7.2
-    },
-    {
-     "name": "7.1",
-     "chapter_number": 7.1
-    },
-    {
-     "name": "6.5",
-     "chapter_number": 6.5
-    },
-    {
-     "name": "6.4",
-     "chapter_number": 6.4
-    },
-    {
-     "name": "6.3",
-     "chapter_number": 6.3
-    },
-    {
-     "name": "6.2",
-     "chapter_number": 6.2
-    },
-    {
-     "name": "6.1",
-     "chapter_number": 6.1
-    },
-    {
-     "name": "5.5",
-     "chapter_number": 5.5
-    },
-    {
-     "name": "5.1",
-     "chapter_number": 5.1
-    },
-    {
-     "name": "4.1",
-     "chapter_number": 4.1
-    },
-    {
-     "name": "3.5",
-     "chapter_number": 3.5
-    },
-    {
-     "name": "3.4",
-     "chapter_number": 3.4
-    },
-    {
-     "name": "3.3",
-     "chapter_number": 3.3
-    },
-    {
-     "name": "3.2",
-     "chapter_number": 3.2
-    },
-    {
-     "name": "3.1",
-     "chapter_number": 3.1
-    },
-    {
-     "name": "2.3",
-     "chapter_number": 2.3
-    },
-    {
-     "name": "2.2",
-     "chapter_number": 2.2
-    },
-    {
-     "name": "2.1",
-     "chapter_number": 2.1
-    }
-   ]
-  }
  }
 ]

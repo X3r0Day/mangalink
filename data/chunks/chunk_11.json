@@ -14560,7 +14560,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/starting-the-sect-system/"
   },
-  "max_chapter": 36,
+  "max_chapter": 37,
   "chapters": {
    "Thunder Scans": []
   }
@@ -18779,7 +18779,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/superhuman-era"
   },
-  "max_chapter": 232,
+  "max_chapter": 233,
   "demonic_id": "1216",
   "chapters": {
    "Demonic Scans": [
@@ -20250,7 +20250,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/surviving-the-heat-apocalypse-with-my-god-tier-safehouse/"
   },
-  "max_chapter": 40,
+  "max_chapter": 42,
   "chapters": {
    "Thunder Scans": []
   }
@@ -34325,7 +34325,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-awakening-of-the-demon-king/"
   },
-  "max_chapter": 34,
+  "max_chapter": 35,
   "chapters": {
    "Thunder Scans": []
   }
@@ -34374,7 +34374,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-baby-raising-a-devil/"
   },
-  "max_chapter": 42,
+  "max_chapter": 43,
   "chapters": {
    "Violet Scans": []
   }
@@ -37671,7 +37671,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-count%2527s-youngest-son-is-a-player",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-counts-youngest-son-is-a-player/"
   },
-  "max_chapter": 155,
+  "max_chapter": 156,
   "demonic_id": "11985",
   "chapters": {
    "Demonic Scans": [
@@ -37952,7 +37952,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-crown-i-will-seize/"
   },
-  "max_chapter": 36,
+  "max_chapter": 37,
   "chapters": {
    "Violet Scans": []
   }
@@ -41942,7 +41942,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-exiled-strongest-barrier-mage-wants-a-peaceful-journey-with-his-wife/"
   },
-  "max_chapter": 24,
+  "max_chapter": 25,
   "chapters": {
    "Thunder Scans": []
   }
@@ -43014,6 +43014,21 @@
   }
  },
  {
+  "title": "The Forgotten Field",
+  "cover": "https://cdn.asurascans.com/asura-images/covers/the-forgotten-field.0f86d3.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Asura Scans": "https://asurascans.com/comics/the-forgotten-field",
+   "Violet Scans": "https://violetscans.com/comics/the-forgotten-field/"
+  },
+  "max_chapter": 20,
+  "chapter_count": 4,
+  "chapters": {
+   "Asura Scans": [],
+   "Violet Scans": []
+  }
+ },
+ {
   "title": "The Forgotten Juliet",
   "cover": "https://violetscans.org/wp-content/uploads/2025/08/2025-08-25-01-32-17-1756128737519-222x300.jpeg",
   "status": "Hiatus",
@@ -43132,6 +43147,18 @@
   "demonic_id": "13327",
   "chapters": {
    "Demonic Scans": [],
+   "Thunder Scans": []
+  }
+ },
+ {
+  "title": "The Former Prodigy’s Guide to Being a Lazy Adventurer",
+  "cover": "https://en-thunderscans.com/wp-content/uploads/2026/04/2026-05-04-03-03-24-1777907004135-212x300.jpg",
+  "status": "Ongoing",
+  "sources": {
+   "Thunder Scans": "https://en-thunderscans.com/comics/mukiryoku-neet-na-moto-shindou-boukensha-ni-naru/"
+  },
+  "max_chapter": 33,
+  "chapters": {
    "Thunder Scans": []
   }
  },
@@ -44435,36 +44462,6 @@
     {
      "name": "0",
      "chapter_slug": "the-glitched-utopia-chapter-0"
-    }
-   ]
-  }
- },
- {
-  "title": "The Goal is Alimony",
-  "cover": "https://violetscans.org/wp-content/uploads/2025/02/2025-02-07-03-21-36-1738941696006-207x300.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Violet Scans": "https://violetscans.org/comics/the-goal-is-alimony/"
-  },
-  "max_chapter": 27,
-  "chapters": {
-   "Violet Scans": []
-  }
- },
- {
-  "title": "The Goblin And I",
-  "cover": "https://readermc.org/images/thumbnails/The Goblin And I.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/the-goblin-and-i"
-  },
-  "max_chapter": 0,
-  "demonic_id": "1496",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "0",
-     "chapter_number": 0
     }
    ]
   }
