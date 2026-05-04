@@ -1,5 +1,18 @@
 [
  {
+  "title": "Invincible in the apocalypse: I'm the only beta player",
+  "cover": "https://readermc.org/images/thumbnails/Invincible in the apocalypse  I’m the only beta player.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/invincible-in-the-apocalypse%253a-i%2527m-the-only-beta-player"
+  },
+  "max_chapter": 24,
+  "demonic_id": "11918",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Invincible Martial Sage",
   "cover": "https://readermc.org/images/thumbnails/Invincible Martial Sage.webp",
   "status": "Ongoing",
@@ -1367,7 +1380,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/is-it-really-okay-to-be-loved-this-much/"
   },
-  "max_chapter": 32,
+  "max_chapter": 33,
   "chapters": {
    "Violet Scans": []
   }
@@ -28519,19 +28532,6 @@
   },
   "max_chapter": 1,
   "demonic_id": "2537",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Kiss Happiness Kiss",
-  "cover": "https://readermc.org/images/thumbnails/Kiss Happiness Kiss.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/kiss-happiness-kiss"
-  },
-  "max_chapter": 1,
-  "demonic_id": "2538",
   "chapters": {
    "Demonic Scans": []
   }

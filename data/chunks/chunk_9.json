@@ -1,5 +1,18 @@
 [
  {
+  "title": "Oshikake Twin Tail",
+  "cover": "https://readermc.org/images/thumbnails/Oshikake Twin Tail.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/oshikake-twin-tail"
+  },
+  "max_chapter": 36,
+  "demonic_id": "5026",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Oshite Dame nara Oshite miro!",
   "cover": "https://readermc.org/images/thumbnails/Oshite Dame nara Oshite miro!.webp",
   "status": "Ongoing",
@@ -3608,7 +3621,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/overtime-salaryman-reincarnates-as-a-hero/"
   },
-  "max_chapter": 42,
+  "max_chapter": 43,
   "chapters": {
    "Thunder Scans": []
   }
@@ -12433,7 +12446,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/primal-hunter"
   },
-  "max_chapter": 116,
+  "max_chapter": 119,
   "demonic_id": "12125",
   "chapters": {
    "Demonic Scans": []
@@ -22025,7 +22038,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/rebirth-in-the-end-times%253a-i-reached-the-top-by-opening-boxes"
   },
-  "max_chapter": 95,
+  "max_chapter": 99,
   "demonic_id": "12508",
   "chapters": {
    "Demonic Scans": [
@@ -22149,7 +22162,7 @@
   "sources": {
    "Asura Scans": "https://asurascans.com/comics/rebirth-of-the-divine-demon"
   },
-  "max_chapter": 39,
+  "max_chapter": 41,
   "chapter_count": 39,
   "chapters": {
    "Asura Scans": []
@@ -28911,19 +28924,6 @@
   },
   "max_chapter": 1,
   "demonic_id": "5783",
-  "chapters": {
-   "Demonic Scans": []
-  }
- },
- {
-  "title": "Renai Tripper",
-  "cover": "https://readermc.org/images/thumbnails/Renai Tripper.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/renai-tripper"
-  },
-  "max_chapter": 3,
-  "demonic_id": "5785",
   "chapters": {
    "Demonic Scans": []
   }

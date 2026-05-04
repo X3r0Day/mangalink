@@ -1,5 +1,35 @@
 [
  {
+  "title": "Magico (IWAMOTO Naoki)",
+  "cover": "https://readermc.org/images/thumbnails/Magico (IWAMOTO Naoki).webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/magico-%2528iwamoto-naoki%2529"
+  },
+  "max_chapter": 65.5,
+  "demonic_id": "2978",
+  "chapters": {
+   "Demonic Scans": [
+    {
+     "name": "65.5",
+     "chapter_number": 65.5
+    },
+    {
+     "name": "56.5",
+     "chapter_number": 56.5
+    },
+    {
+     "name": "22.5",
+     "chapter_number": 22.5
+    },
+    {
+     "name": "8.5",
+     "chapter_number": 8.5
+    }
+   ]
+  }
+ },
+ {
   "title": "MAGiCO( Magic soccer)",
   "cover": "https://readermc.org/images/thumbnails/MAGiCO( Magic soccer).webp",
   "status": "Ongoing",
@@ -27750,7 +27780,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/my-avatar-is-becoming-the-final-boss/"
   },
-  "max_chapter": 9,
+  "max_chapter": 10,
   "chapters": {
    "Thunder Scans": []
   }
@@ -29821,18 +29851,5 @@
   },
   "max_chapter": 31,
   "chapter_count": null
- },
- {
-  "title": "My Destiny",
-  "cover": "https://readermc.org/images/thumbnails/My Destiny.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/my-destiny"
-  },
-  "max_chapter": 6,
-  "demonic_id": "3825",
-  "chapters": {
-   "Demonic Scans": []
-  }
  }
 ]

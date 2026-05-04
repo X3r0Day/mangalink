@@ -1,5 +1,22 @@
 [
  {
+  "title": "The Glitched Utopia",
+  "cover": "https://en-thunderscans.com/wp-content/uploads/2026/02/2026-02-13-03-48-37-1770997717310-225x300.jpg",
+  "status": "Ongoing",
+  "sources": {
+   "Thunder Scans": "https://en-thunderscans.com/comics/the-glitched-utopia/"
+  },
+  "max_chapter": 18,
+  "chapters": {
+   "Thunder Scans": [
+    {
+     "name": "0",
+     "chapter_slug": "the-glitched-utopia-chapter-0"
+    }
+   ]
+  }
+ },
+ {
   "title": "The Goal is Alimony",
   "cover": "https://violetscans.org/wp-content/uploads/2025/02/2025-02-07-03-21-36-1738941696006-207x300.webp",
   "status": "Ongoing",
@@ -111,10 +128,14 @@
    "Flame Comics": "https://flamecomics.xyz/series/126"
   },
   "flame_series_id": 126,
-  "max_chapter": 115,
+  "max_chapter": 116,
   "chapter_count": 114,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "115",
+     "chapter_slug": "0e0171dd858ef869"
+    },
     {
      "name": "114",
      "chapter_slug": "64e7503bb1103e97"
@@ -9654,7 +9675,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-male-lead-knelt-before-me/"
   },
-  "max_chapter": 49,
+  "max_chapter": 50,
   "chapters": {
    "Violet Scans": []
   }
@@ -12110,7 +12131,7 @@
   "sources": {
    "Asura Scans": "https://asurascans.com/comics/the-novels-extra-remake"
   },
-  "max_chapter": 155,
+  "max_chapter": 156,
   "chapter_count": 154,
   "chapters": {
    "Asura Scans": []
@@ -15086,7 +15107,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-prince-doesnt-cry-from-mere-onions/"
   },
-  "max_chapter": 56,
+  "max_chapter": 57,
   "chapters": {
    "Violet Scans": []
   }
@@ -15834,7 +15855,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-rebel-of-the-tyrant-noble-house",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-rebel-of-the-tyrant-noble-house/"
   },
-  "max_chapter": 20,
+  "max_chapter": 21,
   "demonic_id": "13602",
   "chapters": {
    "Demonic Scans": [],
@@ -25100,7 +25121,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-ultimate-of-all-ages"
   },
-  "max_chapter": 524,
+  "max_chapter": 526,
   "demonic_id": "1546",
   "chapters": {
    "Demonic Scans": [
@@ -33858,7 +33879,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/this-love-is-thicker-than-blood/"
   },
-  "max_chapter": 25,
+  "max_chapter": 26,
   "chapters": {
    "Violet Scans": []
   }
@@ -34719,10 +34740,14 @@
    "Flame Comics": "https://flamecomics.xyz/series/136"
   },
   "flame_series_id": 136,
-  "max_chapter": 131,
+  "max_chapter": 132,
   "chapter_count": 130,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "132",
+     "chapter_slug": "78cf36dc466717ee"
+    },
     {
      "name": "131",
      "chapter_slug": "246d5224e91f44bf"
@@ -42273,21 +42298,5 @@
     }
    ]
   }
- },
- {
-  "title": "Ultra Alter",
-  "cover": "https://cdn.asurascans.com/asura-images/covers/ultra-alter.953764.webp",
-  "status": "Dropped",
-  "sources": {
-   "Asura Scans": "https://asurascans.com/comics/ultra-alter",
-   "Demonic Scans": "https://demonicscans.org/manga/ultra-alter"
-  },
-  "max_chapter": 122,
-  "chapter_count": 45,
-  "chapters": {
-   "Asura Scans": [],
-   "Demonic Scans": []
-  },
-  "demonic_id": "6926"
  }
 ]

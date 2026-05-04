@@ -1,5 +1,18 @@
 [
  {
+  "title": "Sichuan's Supreme King",
+  "cover": "https://cdn.asurascans.com/asura-images/covers/sichuans-supreme-king.d60caa.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Asura Scans": "https://asurascans.com/comics/sichuans-supreme-king"
+  },
+  "max_chapter": 23,
+  "chapter_count": 23,
+  "chapters": {
+   "Asura Scans": []
+  }
+ },
+ {
   "title": "Sidooh",
   "cover": "https://readermc.org/images/thumbnails/Sidooh.webp",
   "status": "Ongoing",
@@ -4815,10 +4828,14 @@
    "Flame Comics": "https://flamecomics.xyz/series/44"
   },
   "flame_series_id": 44,
-  "max_chapter": 217,
+  "max_chapter": 218,
   "chapter_count": 217,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "217",
+     "chapter_slug": "cee0d97f3e6d1eab"
+    },
     {
      "name": "216",
      "chapter_slug": "147dae20d9afe1be"
@@ -14206,7 +14223,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/0086250808-start-by-signing-in-and-obtaining-the-ancient-divine-body/"
   },
-  "max_chapter": 149,
+  "max_chapter": 150,
   "chapters": {
    "Thunder Scans": []
   }
@@ -20991,7 +21008,7 @@
    "Asura Scans": "https://asurascans.com/comics/sword-devouring-swordmaster",
    "Demonic Scans": "https://demonicscans.org/manga/sword%25252ddevouring-swordmaster"
   },
-  "max_chapter": 26,
+  "max_chapter": 27,
   "chapter_count": 25,
   "chapters": {
    "Asura Scans": [],
@@ -36269,7 +36286,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-caring-young-lady-wants-to-be-a-wall/"
   },
-  "max_chapter": 60,
+  "max_chapter": 61,
   "chapters": {
    "Violet Scans": []
   }
@@ -38923,7 +38940,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-death-returning-demon-king-player/"
   },
-  "max_chapter": 75,
+  "max_chapter": 76,
   "chapters": {
    "Thunder Scans": []
   }
@@ -38935,7 +38952,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-death%25252dreturning-demon-king%25252dclass-player%253a-lost-man"
   },
-  "max_chapter": 74,
+  "max_chapter": 75,
   "demonic_id": "13161",
   "chapters": {
    "Demonic Scans": []
@@ -39948,7 +39965,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-duchess-has-decided-to-have-an-affair/"
   },
-  "max_chapter": 25,
+  "max_chapter": 26,
   "chapters": {
    "Violet Scans": []
   }
@@ -41282,7 +41299,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-eternal-support-mage-becomes-the-strongest-sage"
   },
-  "max_chapter": 37,
+  "max_chapter": 38,
   "demonic_id": "13680",
   "chapters": {
    "Demonic Scans": []
@@ -41295,7 +41312,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-eternal-supreme"
   },
-  "max_chapter": 524,
+  "max_chapter": 526,
   "demonic_id": "1163",
   "chapters": {
    "Demonic Scans": [
@@ -43157,7 +43174,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/mukiryoku-neet-na-moto-shindou-boukensha-ni-naru/"
   },
-  "max_chapter": 33,
+  "max_chapter": 34,
   "chapters": {
    "Thunder Scans": []
   }
@@ -44363,7 +44380,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/the-genius-tamer-of-the-academy",
    "Thunder Scans": "https://en-thunderscans.com/comics/the-genius-tamer-of-the-academy/"
   },
-  "max_chapter": 76,
+  "max_chapter": 77,
   "demonic_id": "12542",
   "chapters": {
    "Demonic Scans": [],
@@ -44447,23 +44464,6 @@
   "max_chapter": 41,
   "chapters": {
    "Violet Scans": []
-  }
- },
- {
-  "title": "The Glitched Utopia",
-  "cover": "https://en-thunderscans.com/wp-content/uploads/2026/02/2026-02-13-03-48-37-1770997717310-225x300.jpg",
-  "status": "Ongoing",
-  "sources": {
-   "Thunder Scans": "https://en-thunderscans.com/comics/the-glitched-utopia/"
-  },
-  "max_chapter": 18,
-  "chapters": {
-   "Thunder Scans": [
-    {
-     "name": "0",
-     "chapter_slug": "the-glitched-utopia-chapter-0"
-    }
-   ]
   }
  }
 ]

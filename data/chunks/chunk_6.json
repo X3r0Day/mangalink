@@ -1,5 +1,18 @@
 [
  {
+  "title": "Kiss Happiness Kiss",
+  "cover": "https://readermc.org/images/thumbnails/Kiss Happiness Kiss.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/kiss-happiness-kiss"
+  },
+  "max_chapter": 1,
+  "demonic_id": "2538",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "Kiss Hug",
   "cover": "https://readermc.org/images/thumbnails/Kiss Hug.webp",
   "status": "Ongoing",
@@ -14629,7 +14642,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/lets-change-the-ending-to-home-education/"
   },
-  "max_chapter": 37,
+  "max_chapter": 38,
   "chapters": {
    "Violet Scans": []
   }
@@ -25182,7 +25195,7 @@
    "Asura Scans": "https://asurascans.com/comics/magic-academys-genius-blinker",
    "Demonic Scans": "https://demonicscans.org/manga/magic-academy%2527s-genius-blinker"
   },
-  "max_chapter": 94,
+  "max_chapter": 95,
   "chapter_count": 94,
   "chapters": {
    "Asura Scans": [],
@@ -25922,7 +25935,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/magical-realm-shopkeeper"
   },
-  "max_chapter": 100,
+  "max_chapter": 101,
   "demonic_id": "12308",
   "chapters": {
    "Demonic Scans": [
@@ -26147,36 +26160,6 @@
     {
      "name": "41.001",
      "chapter_number": 41.001
-    },
-    {
-     "name": "22.5",
-     "chapter_number": 22.5
-    },
-    {
-     "name": "8.5",
-     "chapter_number": 8.5
-    }
-   ]
-  }
- },
- {
-  "title": "Magico (IWAMOTO Naoki)",
-  "cover": "https://readermc.org/images/thumbnails/Magico (IWAMOTO Naoki).webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/magico-%2528iwamoto-naoki%2529"
-  },
-  "max_chapter": 65.5,
-  "demonic_id": "2978",
-  "chapters": {
-   "Demonic Scans": [
-    {
-     "name": "65.5",
-     "chapter_number": 65.5
-    },
-    {
-     "name": "56.5",
-     "chapter_number": 56.5
     },
     {
      "name": "22.5",

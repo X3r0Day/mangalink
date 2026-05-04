@@ -1,5 +1,18 @@
 [
  {
+  "title": "My Destiny",
+  "cover": "https://readermc.org/images/thumbnails/My Destiny.webp",
+  "status": "Ongoing",
+  "sources": {
+   "Demonic Scans": "https://demonicscans.org/manga/my-destiny"
+  },
+  "max_chapter": 6,
+  "demonic_id": "3825",
+  "chapters": {
+   "Demonic Scans": []
+  }
+ },
+ {
   "title": "My disciple has become the strongest human before I knew it, and I, a master with no talent, was mistakenly recognized as the strongest in the universe beyond that",
   "cover": "https://readermc.org/images/thumbnails/My disciple has become the strongest human before I knew it, and I, a master with no talent, was mistakenly recognized as the strongest in the universe beyond that.webp",
   "status": "Ongoing",
@@ -31319,19 +31332,6 @@
      "chapter_number": 0
     }
    ]
-  }
- },
- {
-  "title": "Oshikake Twin Tail",
-  "cover": "https://readermc.org/images/thumbnails/Oshikake Twin Tail.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/oshikake-twin-tail"
-  },
-  "max_chapter": 36,
-  "demonic_id": "5026",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

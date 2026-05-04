@@ -5438,7 +5438,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/i-became-a-genius-at-the-academy-in-a-world-where-magic-reigns-supreme/"
   },
-  "max_chapter": 75,
+  "max_chapter": 76,
   "chapters": {
    "Thunder Scans": [
     {
@@ -5446,6 +5446,18 @@
      "chapter_slug": "i-became-a-genius-at-the-academy-in-a-world-where-magic-reigns-supreme-chapter-0"
     }
    ]
+  }
+ },
+ {
+  "title": "I Became a Hatchling One Day",
+  "cover": "https://en-thunderscans.com/wp-content/uploads/2026/05/2026-05-04-06-21-17-1777918877737-210x300.jpg",
+  "status": "Ongoing",
+  "sources": {
+   "Thunder Scans": "https://en-thunderscans.com/comics/i-became-a-hatchling-one-day/"
+  },
+  "max_chapter": null,
+  "chapters": {
+   "Thunder Scans": []
   }
  },
  {
@@ -7214,7 +7226,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/i-became-the-scoundrel-of-the-cheon-clan/"
   },
-  "max_chapter": 14,
+  "max_chapter": 16,
   "chapters": {
    "Thunder Scans": []
   }
@@ -7326,7 +7338,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/i-became-the-tyrant-of-a-defence-game"
   },
-  "max_chapter": 177,
+  "max_chapter": 179,
   "demonic_id": "12168",
   "chapters": {
    "Demonic Scans": []
@@ -7990,7 +8002,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/i-become-a-legendary-arch-mage-by-reading-a-book"
   },
-  "max_chapter": 77,
+  "max_chapter": 78,
   "demonic_id": "12554",
   "chapters": {
    "Demonic Scans": []
@@ -8273,7 +8285,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/i-cant-divorce-because-i-love-my-family/"
   },
-  "max_chapter": 38,
+  "max_chapter": 39,
   "chapters": {
    "Violet Scans": []
   }
@@ -10864,7 +10876,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/0086250808-i-got-the-weakest-class-dragon-tamer/"
   },
-  "max_chapter": 237,
+  "max_chapter": 239,
   "chapters": {
    "Thunder Scans": []
   }
@@ -13916,7 +13928,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/i-sacrificed-10%252c000-trash-skills-to-obtain-a-s%25252dtier-skill-and-became-unrivaled"
   },
-  "max_chapter": 34,
+  "max_chapter": 35,
   "demonic_id": "13614",
   "chapters": {
    "Demonic Scans": []
@@ -23033,7 +23045,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/im-a-sickly-mother-but-ill-raise-my-villainous-son/"
   },
-  "max_chapter": 21,
+  "max_chapter": 22,
   "chapters": {
    "Violet Scans": []
   }
@@ -23045,7 +23057,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/im-a-villain-but-im-favored/"
   },
-  "max_chapter": 71,
+  "max_chapter": 72,
   "chapters": {
    "Violet Scans": []
   }
@@ -23097,7 +23109,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/im-a-worthless-stepmother-but-i-love-my-family-madly/"
   },
-  "max_chapter": 144,
+  "max_chapter": 145,
   "chapters": {
    "Violet Scans": []
   }
@@ -24416,7 +24428,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/im-going-to-change-my-husband-with-a-predatory-marriage/"
   },
-  "max_chapter": 32,
+  "max_chapter": 33,
   "chapters": {
    "Violet Scans": []
   }
@@ -33395,19 +33407,6 @@
      "chapter_number": 0
     }
    ]
-  }
- },
- {
-  "title": "Invincible in the apocalypse: I'm the only beta player",
-  "cover": "https://readermc.org/images/thumbnails/Invincible in the apocalypse  I’m the only beta player.webp",
-  "status": "Ongoing",
-  "sources": {
-   "Demonic Scans": "https://demonicscans.org/manga/invincible-in-the-apocalypse%253a-i%2527m-the-only-beta-player"
-  },
-  "max_chapter": 24,
-  "demonic_id": "11918",
-  "chapters": {
-   "Demonic Scans": []
   }
  }
 ]

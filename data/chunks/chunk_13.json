@@ -1,5 +1,21 @@
 [
  {
+  "title": "Ultra Alter",
+  "cover": "https://cdn.asurascans.com/asura-images/covers/ultra-alter.953764.webp",
+  "status": "Dropped",
+  "sources": {
+   "Asura Scans": "https://asurascans.com/comics/ultra-alter",
+   "Demonic Scans": "https://demonicscans.org/manga/ultra-alter"
+  },
+  "max_chapter": 122,
+  "chapter_count": 45,
+  "chapters": {
+   "Asura Scans": [],
+   "Demonic Scans": []
+  },
+  "demonic_id": "6926"
+ },
+ {
   "title": "Ultra Battle Satellite",
   "cover": "https://readermc.org/images/thumbnails/Ultra Battle Satellite.webp",
   "status": "Ongoing",
@@ -1356,7 +1372,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/underworld-restaurant"
   },
-  "max_chapter": 114,
+  "max_chapter": 115,
   "demonic_id": "11737",
   "chapters": {
    "Demonic Scans": [
@@ -2274,7 +2290,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/until-our-marriage-is-over/"
   },
-  "max_chapter": 37,
+  "max_chapter": 38,
   "chapters": {
    "Violet Scans": []
   }
