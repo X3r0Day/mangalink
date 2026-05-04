@@ -31802,10 +31802,14 @@
    "Flame Comics": "https://flamecomics.xyz/series/23"
   },
   "flame_series_id": 23,
-  "max_chapter": 478,
+  "max_chapter": 479,
   "chapter_count": 477,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "479",
+     "chapter_slug": "e0a3c48a139321ba"
+    },
     {
      "name": "478",
      "chapter_slug": "7d42512cf5e4fcb1"
