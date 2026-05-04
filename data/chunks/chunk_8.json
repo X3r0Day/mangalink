@@ -30662,10 +30662,14 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/ore-wa-subete-wo-%2522parry%2522-suru"
   },
-  "max_chapter": 24.1,
+  "max_chapter": 24.2,
   "demonic_id": "1299",
   "chapters": {
    "Demonic Scans": [
+    {
+     "name": "24.2",
+     "chapter_number": 24.2
+    },
     {
      "name": "24.1",
      "chapter_number": 24.1
