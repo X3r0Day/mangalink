@@ -25197,11 +25197,15 @@
    "Demonic Scans": "https://demonicscans.org/manga/regressing-as-the-reincarnated-bastard-of-the-sword-clan",
    "Flame Comics": "https://flamecomics.xyz/series/154"
   },
-  "max_chapter": 93,
+  "max_chapter": 94,
   "demonic_id": "12628",
   "chapters": {
    "Demonic Scans": [],
    "Flame Comics": [
+    {
+     "name": "94",
+     "chapter_slug": "1c3defaf49793e31"
+    },
     {
      "name": "93",
      "chapter_slug": "012e8303a2dd5a32"

@@ -19800,7 +19800,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/surviving-the-apocalypse",
    "Flame Comics": "https://flamecomics.xyz/series/138"
   },
-  "max_chapter": 76,
+  "max_chapter": 77,
   "demonic_id": "12313",
   "chapters": {
    "Demonic Scans": [
@@ -19810,6 +19810,10 @@
     }
    ],
    "Flame Comics": [
+    {
+     "name": "76",
+     "chapter_slug": "653373707d2deccb"
+    },
     {
      "name": "75",
      "chapter_slug": "d9a3c9bb072f9704"
@@ -34263,7 +34267,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/the-archmage%2527s-restaurant"
   },
-  "max_chapter": 128,
+  "max_chapter": 129,
   "demonic_id": "11964",
   "chapters": {
    "Demonic Scans": []

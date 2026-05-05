@@ -6411,7 +6411,7 @@
    "Asura Scans": "https://asurascans.com/comics/i-became-the-first-prince-legend-of-swords-song",
    "Flame Comics": "https://flamecomics.xyz/series/159"
   },
-  "max_chapter": 34,
+  "max_chapter": 35,
   "chapter_count": 33,
   "chapters": {
    "Asura Scans": [
@@ -6421,6 +6421,10 @@
     }
    ],
    "Flame Comics": [
+    {
+     "name": "34",
+     "chapter_slug": "5890674153e4e4e0"
+    },
     {
      "name": "33",
      "chapter_slug": "5df891a379ea4c55"
@@ -7207,7 +7211,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/i-became-the-rogue-first-prince",
    "Thunder Scans": "https://en-thunderscans.com/comics/i-became-the-rogue-first-prince/"
   },
-  "max_chapter": 33,
+  "max_chapter": 34,
   "demonic_id": "13665",
   "chapters": {
    "Demonic Scans": [
@@ -31480,7 +31484,7 @@
    "Asura Scans": "https://asurascans.com/comics/infinite-mage",
    "Demonic Scans": "https://demonicscans.org/manga/infinite-mage"
   },
-  "max_chapter": 166,
+  "max_chapter": 167,
   "chapter_count": 165,
   "chapters": {
    "Asura Scans": [],

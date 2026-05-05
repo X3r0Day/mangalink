@@ -16451,7 +16451,7 @@
    "Asura Scans": "https://asurascans.com/comics/the-regressed-mercenarys-machinations",
    "Demonic Scans": "https://demonicscans.org/manga/the-regressed-mercenary%2527s-machinations"
   },
-  "max_chapter": 87,
+  "max_chapter": 88,
   "chapter_count": 86,
   "chapters": {
    "Asura Scans": [],
@@ -16492,7 +16492,7 @@
    "Asura Scans": "https://asurascans.com/comics/the-regressed-son-of-a-duke-is-an-assassin",
    "Demonic Scans": "https://demonicscans.org/manga/the-regressed-son-of-a-duke-is-an-assassin"
   },
-  "max_chapter": 124,
+  "max_chapter": 125,
   "chapter_count": 123,
   "chapters": {
    "Asura Scans": [],
@@ -16534,10 +16534,14 @@
    "Flame Comics": "https://flamecomics.xyz/series/133"
   },
   "flame_series_id": 133,
-  "max_chapter": 124,
+  "max_chapter": 125,
   "chapter_count": 122,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "125",
+     "chapter_slug": "e9d2996b285167a8"
+    },
     {
      "name": "124",
      "chapter_slug": "23f54ca4db9bb5d2"

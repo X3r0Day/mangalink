@@ -16320,7 +16320,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/leveling-with-the-gods",
    "Flame Comics": "https://flamecomics.xyz/series/152"
   },
-  "max_chapter": 169,
+  "max_chapter": 170,
   "demonic_id": "1725",
   "chapters": {
    "Demonic Scans": [
@@ -16430,6 +16430,10 @@
     }
    ],
    "Flame Comics": [
+    {
+     "name": "168",
+     "chapter_slug": "f3b5a0d1b2e51de7"
+    },
     {
      "name": "167",
      "chapter_slug": "4dd7c71e8c366b70"
