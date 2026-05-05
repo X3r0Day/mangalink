@@ -13556,7 +13556,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/star-forging-titan/"
   },
-  "max_chapter": 7,
+  "max_chapter": 8,
   "chapters": {
    "Thunder Scans": []
   }
@@ -13569,10 +13569,14 @@
    "Flame Comics": "https://flamecomics.xyz/series/131"
   },
   "flame_series_id": 131,
-  "max_chapter": 122,
+  "max_chapter": 123,
   "chapter_count": 121,
   "chapters": {
    "Flame Comics": [
+    {
+     "name": "121",
+     "chapter_slug": "babc6c2bf1c67e04"
+    },
     {
      "name": "120",
      "chapter_slug": "932328e3c4818935"
@@ -14618,7 +14622,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/starting-with-a-mythic-talent-i-cut-down-gods/"
   },
-  "max_chapter": 32,
+  "max_chapter": 33,
   "chapters": {
    "Thunder Scans": [
     {
@@ -31223,7 +31227,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-abandoned-saintess-became-the-elfs-beloved/"
   },
-  "max_chapter": 28,
+  "max_chapter": 29,
   "chapters": {
    "Violet Scans": []
   }
@@ -31389,7 +31393,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-absolute-scholar/"
   },
-  "max_chapter": 36,
+  "max_chapter": 37,
   "chapters": {
    "Thunder Scans": []
   }
@@ -38785,7 +38789,7 @@
    "Asura Scans": "https://asurascans.com/comics/the-dark-swordsman-returns",
    "Demonic Scans": "https://demonicscans.org/manga/the-dark-swordsman-returns"
   },
-  "max_chapter": 47,
+  "max_chapter": 48,
   "chapter_count": 46,
   "chapters": {
    "Asura Scans": [],
@@ -39107,7 +39111,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/the-demon-king-is-18/"
   },
-  "max_chapter": 37,
+  "max_chapter": 38,
   "chapters": {
    "Thunder Scans": []
   }
@@ -42755,7 +42759,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/the-father-and-the-daughter/"
   },
-  "max_chapter": 64,
+  "max_chapter": 65,
   "chapters": {
    "Violet Scans": []
   }
@@ -43040,7 +43044,8 @@
   "status": "Ongoing",
   "sources": {
    "Asura Scans": "https://asurascans.com/comics/the-forgotten-field",
-   "Violet Scans": "https://violetscans.com/comics/the-forgotten-field/"
+   "Violet Scans": "https://violetscans.com/comics/the-forgotten-field/",
+   "Thunder Scans": "https://en-thunderscans.com/comics/the-forgotten-field/"
   },
   "max_chapter": 20,
   "chapter_count": 4,

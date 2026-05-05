@@ -2803,7 +2803,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/how-to-live-as-a-demon-beast-hunter/"
   },
-  "max_chapter": 10,
+  "max_chapter": 13,
   "chapters": {
    "Thunder Scans": [
     {
@@ -5455,7 +5455,7 @@
   "sources": {
    "Thunder Scans": "https://en-thunderscans.com/comics/i-became-a-hatchling-one-day/"
   },
-  "max_chapter": null,
+  "max_chapter": 1,
   "chapters": {
    "Thunder Scans": []
   }
@@ -19503,7 +19503,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/i-was-supposed-to-be-a-stalker-lady-but-somehow-im-being-adored-instead/"
   },
-  "max_chapter": 34,
+  "max_chapter": 35,
   "chapters": {
    "Violet Scans": []
   }
@@ -24844,7 +24844,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/im-only-a-stepmother-but-my-daughter-is-just-so-cute/"
   },
-  "max_chapter": 171,
+  "max_chapter": 172,
   "chapters": {
    "Violet Scans": [
     {
@@ -29303,7 +29303,7 @@
   "sources": {
    "Violet Scans": "https://violetscans.org/comics/impure-love/"
   },
-  "max_chapter": 33,
+  "max_chapter": 35,
   "chapters": {
    "Violet Scans": []
   }
@@ -31251,7 +31251,7 @@
   "sources": {
    "Demonic Scans": "https://demonicscans.org/manga/infinite-evolution-starting-from-zero"
   },
-  "max_chapter": 87,
+  "max_chapter": 88,
   "demonic_id": "13588",
   "chapters": {
    "Demonic Scans": []
@@ -31318,7 +31318,7 @@
    "Demonic Scans": "https://demonicscans.org/manga/infinite-level-up-in-murim",
    "Thunder Scans": "https://en-thunderscans.com/comics/infinite-level-up-in-murim/"
   },
-  "max_chapter": 260,
+  "max_chapter": 264,
   "demonic_id": "938",
   "chapters": {
    "Demonic Scans": [
